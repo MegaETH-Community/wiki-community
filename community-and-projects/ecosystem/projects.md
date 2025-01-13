@@ -1,4 +1,5 @@
 ---
+icon: bars-progress
 layout:
   title:
     visible: true

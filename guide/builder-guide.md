@@ -1,4 +1,5 @@
 ---
+icon: user-helmet-safety
 layout:
   title:
     visible: true

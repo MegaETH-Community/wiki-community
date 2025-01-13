@@ -1,4 +1,5 @@
 ---
+icon: screwdriver-wrench
 layout:
   title:
     visible: true

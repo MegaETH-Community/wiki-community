@@ -1,4 +1,5 @@
 ---
+icon: telescope
 layout:
   title:
     visible: true
