@@ -1,4 +1,5 @@
 ---
+icon: rabbit-running
 layout:
   title:
     visible: true
