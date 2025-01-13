@@ -36,6 +36,6 @@ You can still build on MegaETH without joining the 10x Builders Program. Here’
 
 * **Access Developer Resources**: Use tools, documentation, and APIs to start building.
 * **Leverage the Ecosystem**: Take advantage of MegaETH's high TPS and sub-millisecond block times.
-* **Join the Community & Explore**: Check out the [Ecosystem Project Documentation](../community-and-projects/ecosystem-projects.md).
+* **Join the Community & Explore**: Check out the [Ecosystem Project Documentation](../community-and-projects/ecosystem/).
 
 Start building today—MegaETH is ready for you!

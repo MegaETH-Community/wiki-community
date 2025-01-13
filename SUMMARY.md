@@ -30,4 +30,6 @@
 ## Community & Projects
 
 * [Mega](community-and-projects/mega.md)
-* [Ecosystem Projects](community-and-projects/ecosystem-projects.md)
+* [Ecosystem](community-and-projects/ecosystem/README.md)
+  * [Tools](community-and-projects/ecosystem/tools.md)
+  * [Projects](community-and-projects/ecosystem/projects.md)
