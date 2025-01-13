@@ -39,6 +39,20 @@ Together, this team reflects a rare convergence of **technical mastery** and **p
 * **Namik Muduroglu -** [LinkedIn](https://www.linkedin.com/in/namikmuduroglu/) | [X](https://x.com/NamikMuduroglu)\
   **Role**: Founding Team & CSO\
   **Expertise**: Strategic innovation and market development
+* **Amir** – [X](https://x.com/amiralmaimani)\
+  **Role**: Head of Ecosystem
+* **BREAD** – [X](https://x.com/0xBreadguy)\
+  **Role**: Head of Community
+* **heisenbruh** – [X](https://x.com/0xHeisenbruh)\
+  **Role**: Business Development
+* **Rose Bao** – [X](https://x.com/HarukoRose)\
+  **Role**: Visual Artist & Creative Director
+* **Laura** – [X](https://x.com/0xlifeitself)\
+  **Role**: Chief Operating Officer
+* **Sami** – [X](https://x.com/0xSami_M)\
+  **Role**: Developer Relations (DevRel)
+* **Jin** – [X](https://x.com/_Digital_J_) & **William** – [X](https://x.com/troublor)\
+  **Role**: Research
 
 ### Team Structure <a href="#team-structure" id="team-structure"></a>
 
