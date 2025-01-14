@@ -16,13 +16,13 @@ layout:
 
 ### **Welcome to the Mega Community Wiki ✨**
 
-_(diagram)_
+<figure><img src=".gitbook/assets/MegaETH-overview_v1.png" alt=""><figcaption></figcaption></figure>
 
 This site is designed to **centralize** everything you need to get started and grow with **MegaETH**, whether you’re a developer, trader, or simply curious. While MegaETH has active communities on **Discord** and **Twitter**, our goal is to help you **navigate, understand, and leverage** the full potential of the MegaETH ecosystem.
 
 ***
 
-### How This Wiki is Organized 🧭 <a href="#how-this-wiki-is-organized" id="how-this-wiki-is-organized"></a>
+### How This Wiki is Organized <a href="#how-this-wiki-is-organized" id="how-this-wiki-is-organized"></a>
 
 * **Browse Categories:** Use the **sidebar on the left** to find articles grouped by topic.
 * **Quick Search:** If you know what you’re looking for, try the **search bar** at the top-right corner.
