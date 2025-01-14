@@ -32,6 +32,8 @@ This is a community shaped by its contributors: builders, philosophers, craftsme
 
 Many contributions come from the **MegaLabs** team, driving innovation and supporting the ecosystem. Explore their efforts and team members on the [MegaLabs Team Page](../introduction/megalabs.md).
 
+To stay up-to-date with important tweets and updates, check out this [Twitter Feed](https://www.megahub.live/twitterfeed).
+
 ***
 
 ### Community Contributors
