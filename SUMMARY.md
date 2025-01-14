@@ -29,7 +29,7 @@
 
 ## Community & Projects
 
-* [Mega](community-and-projects/mega.md)
+* [Mega Civilization](community-and-projects/mega-civilization.md)
 * [Ecosystem](community-and-projects/ecosystem/README.md)
   * [Tools](community-and-projects/ecosystem/tools.md)
   * [Projects](community-and-projects/ecosystem/projects.md)
