@@ -12,5 +12,5 @@ layout:
     visible: true
 ---
 
-# Common Challenges
+# EigenLayer
 

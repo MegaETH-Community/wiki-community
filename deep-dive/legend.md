@@ -1,4 +1,5 @@
 ---
+icon: book
 layout:
   title:
     visible: true
@@ -33,7 +34,8 @@ The process of executing transactions in the defined order to calculate the bloc
 
 #### Key Terms
 
-* **Liveness**: The property that ensures the system continues to make progress (e.g., transactions are eventually processed). A blockchain with liveness guarantees will not halt indefinitely.
+* **Liveness:** The property that ensures the system continues to make progress (e.g., transactions are eventually processed). A blockchain with liveness guarantees will not halt indefinitely. In essence, it ensures that the system eventually completes operations and does not remain stuck or idle indefinitely.
+* **Consistency:** The property that ensures all participants in the network share the same vision of the blockchain at any given moment. In other words, all nodes agree on the same state and history of transactions, preventing divergent or conflicting views.
 * **Trustless**: A characteristic of blockchain systems where participants can interact and transact without needing to trust one another or a central authority. Security is maintained by the protocol.
 * **Finality**: The assurance that a transaction, once confirmed, cannot be reversed or altered. Different blockchains may have probabilistic or deterministic finality.
 * **Scalability**: The ability of a blockchain to handle increased transaction throughput as demand grows, without compromising performance.
