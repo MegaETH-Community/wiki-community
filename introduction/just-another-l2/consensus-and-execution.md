@@ -1,4 +1,5 @@
 ---
+icon: arrows-to-dot
 layout:
   title:
     visible: true

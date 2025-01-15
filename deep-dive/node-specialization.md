@@ -14,9 +14,11 @@ layout:
 
 # Node Specialization
 
-Traditional **Layer-1 (L1) blockchains** often require every node to perform **all** the heavy lifting—consensus, transaction ordering, and execution—leading to redundant work and inherent scaling limits. **Node specialization** breaks this monolithic model by assigning **specific tasks** to **dedicated nodes**, unlocking significant gains in throughput and responsiveness.
+As discussed in the[ **Consensus & Execution**](../introduction/just-another-l2/consensus-and-execution.md) page, traditional **Layer-1 (L1) blockchains** often require every node to perform **all** the heavy lifting—consensus, transaction ordering, and execution—leading to redundant work and inherent scaling limits.&#x20;
 
-### 1. The Monolithic L1 Model
+**Node specialization** breaks this monolithic model by assigning **specific tasks** to **dedicated nodes**, unlocking significant gains in throughput and responsiveness.
+
+### The Monolithic L1 Model
 
 1. **Redundant Computation**
    * Every node must independently execute all transactions, verify proofs, and maintain full state.
@@ -25,11 +27,9 @@ Traditional **Layer-1 (L1) blockchains** often require every node to perform **a
    * Block gas limits and block times stay conservative, preventing full hardware utilization (e.g., multi-core CPUs, modern SSDs).
    * Even if one node can handle more load, the network must align with **worst-case** hardware across all participants.
 
-> **Key Insight**: This design prioritizes maximum decentralization at the expense of raw performance.
-
 ***
 
-### 2. Heterogeneous Nodes in L2 Blockchains
+### Heterogeneous Nodes in L2 Blockchains
 
 By contrast, **Layer-2** solutions like **MegaETH** adopt a **heterogeneous architecture**:
 
@@ -54,7 +54,7 @@ By contrast, **Layer-2** solutions like **MegaETH** adopt a **heterogeneous arch
 
 ***
 
-### 3. MegaETH’s Specialized Execution
+### MegaETH’s Specialized Execution
 
 Many L2s stop at specialized **sequencers** for transaction ordering. MegaETH pushes further by **concentrating actual execution** into specialized nodes—effectively turning the sequencer into a **“world computer”** optimized for:
 
@@ -69,7 +69,7 @@ Many L2s stop at specialized **sequencers** for transaction ordering. MegaETH pu
 
 ***
 
-### 4. Balancing Performance & Decentralization
+### Balancing Performance & Decentralization
 
 A common concern is that **specialized** nodes sound “centralized.” MegaETH addresses this with:
 
@@ -82,15 +82,13 @@ A common concern is that **specialized** nodes sound “centralized.” MegaETH 
 
 ***
 
-### 5. Looking Ahead: Hyper-Optimizing the EVM
+### Looking Ahead: Hyper-Optimizing the EVM
 
 **Node specialization** solves the **who** of transaction processing—**which** nodes do **what** tasks. The next big question is **how** to make execution itself lightning fast. That’s where **Hyper-Optimizing the EVM** comes in, including:
 
 * **Parallel Execution**: Utilizing all CPU cores effectively.
 * **In-Memory Computing**: Minimizing slow disk I/O for frequent state accesses.
 * **JIT Compilation**: Turning EVM bytecode into near-native instructions for major speedups.
-
-> **Coming Next**: In the following section, we’ll explore **MegaETH’s approach to EVM hyper-optimization**, showing how we tackle the biggest performance pitfalls—like random disk I/Os, interpretive overhead, and the mismatch between EVM design and modern hardware.
 
 ***
 
