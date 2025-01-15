@@ -1,4 +1,5 @@
 ---
+icon: fire-flame-simple
 layout:
   title:
     visible: true
@@ -12,9 +13,9 @@ layout:
     visible: true
 ---
 
-# 4. State Sync & Gas Limits
+# State Sync & Gas Limits
 
-Even if a blockchain **orders transactions** and **executes** them at incredible speeds, **nodes still need to stay synchronized** with the latest state. Additionally, there’s an **artificial throttle** in every blockchain—often called the **block gas limit**—that ensures the network remains secure and reliable. Below, we’ll explore why **state sync** and **gas limits** are critical in high-performance designs like **MegaETH**.
+Even if a blockchain **orders transactions** and **executes** them efficiently, keeping **all nodes synchronized** and maintaining stability through **gas limits** are critical for high-performance networks like MegaETH. Let’s explore how these mechanisms work together to ensure a decentralized yet scalable system.
 
 ***
 
@@ -26,17 +27,16 @@ As transaction throughput rises, synchronizing the **full state** across the net
    * High-performance blockchains, including MegaETH, can process a large number of transactions within a very short timeframe.
    * Each transaction modifies the global state (balances, contract storage, etc.), so nodes need continuous, near-real-time updates.
 2. **Authenticated Structures**
-   * Most chains, including Ethereum, use a **trie-based structure** (e.g., Merkle Patricia Trie) for **state commitments**.
-   * After each block, a **new state root** (hash) must be computed and shared, so light clients and external verifiers can trust the updated state without downloading it fully.
+   * Blockchains use **authenticated structures** like Merkle Patricia Tries to organize and secure state data.
+   * After each block, a **new state root** (hash) must be computed and shared, so light clients (**replica nodes**) and external verifiers can trust the updated state without downloading it fully.
+   * **Full nodes**, on the other hand, re-execute transactions to independently compute and validate the state root, ensuring the network’s security and integrity.
 3. **Full Node Responsibility**
    * **Full nodes** maintain the complete blockchain history and the current state.
    * They also serve **new or lagging nodes**, helping them quickly **“catch up”** if they go offline or join the network later. This is known as **state sync**.
 4. **Bandwidth & I/O Constraints**
-   * The more frequently blocks are produced (and the larger they are), the higher the bandwidth needed for nodes to exchange data.
-   * **Write-optimized storage** and **parallel execution** techniques can alleviate some of these bottlenecks, but node operators still need capable hardware to keep pace.
-
-> **In MegaETH**\
-> Concentrating execution in specialized nodes allows other participants to synchronize without replaying every transaction in real time. Full nodes still validate the state root and can independently verify blocks if needed.
+   * Higher transaction throughput means larger and more frequent state updates.
+   * Synchronizing this data across the network requires significant bandwidth and storage.
+   * Without optimizations like parallel execution or write-optimized storage, nodes with limited hardware might struggle to keep up.
 
 ***
 
@@ -64,13 +64,3 @@ No matter how well a blockchain **orders** and **executes** transactions, it’s
 
 * **State Sync** is essential for maintaining a healthy, permissionless network where anyone can join and catch up, ensuring **transparency** and **trustlessness**.
 * **Gas Limits** serve as a critical safety feature, preventing runaway block sizes that could break the network or centralize it among powerful nodes only.
-
-**MegaETH** tackles both challenges head-on, enabling millisecond-level responsiveness and 100,000+ TPS while still anchoring security to Ethereum. By carefully balancing **state sync optimizations** with **higher block gas thresholds**, MegaETH achieves **real-time performance** without compromising the core values of blockchain technology.
-
-***
-
-#### Key Takeaways
-
-* **State Synchronization** becomes increasingly important as throughput rises—full nodes and fast, incremental state syncing methods are vital for maintaining an open network.
-* **Gas Limits** exist to preserve **security** and **decentralization**; no matter how advanced the execution, the entire network’s capabilities are ultimately capped by this throttle.
-* **MegaETH** pushes these boundaries safely by combining node specialization, efficient state sync, and hardware-level optimizations—resulting in real-time throughput on a decentralized backbone.

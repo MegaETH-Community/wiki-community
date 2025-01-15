@@ -9,9 +9,8 @@
 * [Just Another L2?](introduction/just-another-l2/README.md)
   * [What Is a Blockchain?](introduction/just-another-l2/what-is-a-blockchain.md)
   * [Consensus & Execution](introduction/just-another-l2/consensus-and-execution.md)
-  * [2. User Transaction](introduction/just-another-l2/2.-user-transaction.md)
-  * [3. Node Roles](introduction/just-another-l2/3.-node-roles.md)
-  * [4. State Sync & Gas Limits](introduction/just-another-l2/4.-state-sync-and-gas-limits.md)
+  * [User Transaction](introduction/just-another-l2/user-transaction.md)
+  * [State Sync & Gas Limits](introduction/just-another-l2/state-sync-and-gas-limits.md)
 * [MegaLabs](introduction/megalabs.md)
 * [Roadmap](introduction/roadmap.md)
 
