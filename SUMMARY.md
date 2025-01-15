@@ -15,6 +15,7 @@
   * [Common Challenges](introduction/just-another-l2/common-challenges/README.md)
     * [Node Specialization](introduction/just-another-l2/common-challenges/node-specialization.md)
     * [Hyper-Optimizing the EVM](introduction/just-another-l2/common-challenges/hyper-optimizing-the-evm.md)
+  * [Legend](introduction/just-another-l2/legend.md)
 * [MegaLabs](introduction/megalabs.md)
 * [Roadmap](introduction/roadmap.md)
 
