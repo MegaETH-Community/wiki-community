@@ -24,4 +24,6 @@ With **dozens of Layer-2 solutions** (L2s) claiming to revolutionize the blockch
 3. **How can these challenges be solved?**\
    Techniques like **node specialization**, **optimized execution environments**, or new approaches to **distributed consensus** can help push the performance envelope.
 
-In the subsections below, we’ll break down **what blockchains are**, **where they fall short**, and **which solutions** aim to address these issues. By the end of these sections, you’ll see **why MegaETH isn’t “just another L2,”** but a **real-time blockchain** that redefines on-chain performance. Dive in to learn more!
+In the subsections below, we’ll break down **what blockchains are** and **where they fall short.** For a deeper dive into **how MegaETH solves these challenges** and delivers real-time performance without compromising decentralization, head to the [**Deep Dive**](../../deep-dive/overview.md) section.&#x20;
+
+By the end of these sections, you’ll see **why MegaETH isn’t “just another L2,”** but a **real-time blockchain** that redefines on-chain performance. Dive in to learn more!
