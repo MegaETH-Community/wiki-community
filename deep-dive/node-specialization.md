@@ -18,6 +18,8 @@ As discussed in the[ **Consensus & Execution**](../introduction/just-another-l2/
 
 **Node specialization** breaks this monolithic model by assigning **specific tasks** to **dedicated nodes**, unlocking significant gains in throughput and responsiveness.
 
+<figure><img src="../.gitbook/assets/MegaETH_node_spe_v3 (2).png" alt=""><figcaption><p>Node Specialization</p></figcaption></figure>
+
 ### The Monolithic L1 Model
 
 1. **Redundant Computation**

@@ -15,4 +15,6 @@ layout:
 
 # Overview
 
-<figure><img src="../.gitbook/assets/MegaETH_node_spe_v3 (1).png" alt=""><figcaption><p>Node Specialization</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/MegaETH_PB_v4_cut1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/MegaETH_PB_v4_cut2 (2).png" alt=""><figcaption></figcaption></figure>
