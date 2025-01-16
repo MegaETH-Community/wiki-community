@@ -16,7 +16,7 @@ layout:
 
 ### **Welcome to the Mega Community Wiki ✨**
 
-<figure><img src=".gitbook/assets/MegaETH-overview_v1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/MegaETH_overview2.png" alt=""><figcaption></figcaption></figure>
 
 This site is designed to **centralize** everything you need to get started and grow with **MegaETH**, whether you’re a developer, trader, or simply curious. While MegaETH has active communities on **Discord** and **Twitter**, our goal is to help you **navigate, understand, and leverage** the full potential of the MegaETH ecosystem.
 
