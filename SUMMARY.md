@@ -11,6 +11,7 @@
   * [Consensus & Execution](introduction/just-another-l2/consensus-and-execution.md)
   * [User Transaction](introduction/just-another-l2/user-transaction.md)
   * [State Sync & Gas Limits](introduction/just-another-l2/state-sync-and-gas-limits.md)
+  * [Legend](introduction/just-another-l2/legend.md)
 * [MegaLabs](introduction/megalabs.md)
 * [Roadmap](introduction/roadmap.md)
 
@@ -20,7 +21,6 @@
 * [Node Specialization](deep-dive/node-specialization.md)
 * [Hyper-Optimizing the EVM](deep-dive/hyper-optimizing-the-evm.md)
 * [EigenLayer](deep-dive/eigenlayer.md)
-* [Legend](deep-dive/legend.md)
 
 ## Guide
 
