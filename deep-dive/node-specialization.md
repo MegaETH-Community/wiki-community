@@ -21,7 +21,7 @@ As discussed in the[ **Consensus & Execution**](../introduction/just-another-l2/
 
 Below is a high-level diagram illustrating how MegaETH implements node specialization. You’ll see the four major node roles—**Sequencer**, **Prover**, **Replica**, and **Full Node**—as well as the interactions among them and an external **EigenDA** component for data availability.
 
-<figure><img src="../.gitbook/assets/MegaETH_node_spe_v3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MegaETH_node_spe_v4 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### How the Diagram Works
 
