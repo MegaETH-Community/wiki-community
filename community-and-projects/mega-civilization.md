@@ -49,4 +49,17 @@ To stay up-to-date with important tweets and updates, check out this [Twitter Fe
 
 ***
 
+### **Community Projects**
+
+The MegaETH community continues to create resources to support its growth and foster collaboration:
+
+1. [**Jaehaerys**](https://x.com/key_aqbota)**'s Notion Page**\
+   A comprehensive summary of MegaETH concepts with animations and visual aids. Check it out here: [MegaETH](https://jaehaerys.notion.site/MegaETH-1472bc05039d80caaba9ea708fee4806).
+2. **MegaHub**\
+   [MegaHub](https://www.megahub.live/) serves as a centralized platform to consolidate information, publish newsletters, and keep the community informed.
+
+These projects, created by passionate community members, provide invaluable resources and insights for anyone eager to dive into the MegaETH ecosystem.
+
+***
+
 2025 marks the year when this **Mega Civilization** accelerates, driven by its people—builders, artists, and thinkers—each contributing their unique spark to this expanding ecosystem.
