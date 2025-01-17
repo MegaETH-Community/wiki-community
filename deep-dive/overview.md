@@ -55,9 +55,16 @@ By approaching the problem comprehensively, MegaETH ensures that all components 
 
 ***
 
-#### **Resources**
+### Resources
 
-1. [MegaETH White Paper](https://www.megaeth.com/research) – In-depth explanation of blockchain concepts and challenges.
-2. [Technical One-Pager](https://spark-list-d20.notion.site/MegaETH-Technical-One-pager-f9cdd910aecb4eab97259a612d1f4fd2) – Solutions to scalability and efficiency issues.
-3. [MegaETH Overview](https://www.megaeth.com/about) – Key features and their implementation.
-4. [Real-Time Blockchain Article](https://jaehaerys.notion.site/First-Real-Time-Blockchain-15b2bc05039d80d4a604c8724cfadcb6) – Insights into real-time blockchain innovations.
+#### **Bibliography**
+
+* [MegaETH White Paper](https://www.megaeth.com/research) – In-depth explanation of blockchain concepts and challenges.
+* [Technical One-Pager](https://spark-list-d20.notion.site/MegaETH-Technical-One-pager-f9cdd910aecb4eab97259a612d1f4fd2) – Solutions to scalability and efficiency issues.
+* [MegaETH Overview](https://www.megaeth.com/about) – Key features and their implementation.
+
+**Additional Resources**
+
+* [World Computer Paper](https://worldcomputer.day/) – Learn more about the concept of a "world computer".
+* [MegaHub Community Articles](https://www.megahub.live/articles) – Explore community-articles.
+* [Real-Time Blockchain Article](https://jaehaerys.notion.site/First-Real-Time-Blockchain-15b2bc05039d80d4a604c8724cfadcb6) – Insights into real-time blockchain innovations.
