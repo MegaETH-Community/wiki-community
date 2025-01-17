@@ -22,9 +22,9 @@ The following diagram highlights the **key challenges** that blockchains face in
 1. **Node Specialization**: Leveraging tailored hardware setups to eliminate bottlenecks in state access and transaction processing.
 2. **Hyper-Optimizing the EVM**: Implementing cutting-edge techniques like in-memory computing, bytecode compilation, and parallel execution to unlock the full potential of blockchain infrastructure.
 
-<figure><img src="../.gitbook/assets/MegaETH_PB_v4_cut1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MegaETH_PB_v4_cut1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/MegaETH_PB_v4_cut2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MegaETH_PB_v4_cut2 (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
