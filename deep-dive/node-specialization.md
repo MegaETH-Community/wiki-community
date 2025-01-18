@@ -66,7 +66,6 @@ Below is a high-level diagram illustrating how MegaETH implements node specializ
 
     * **What It Is:**
       * An external data availability solution built on EigenLayer.
-      * Used to store and retrieve transaction data, ensuring the long-term availability of critical information.
     * **Interaction:**
       * **From Sequencer:** Receives _blocks, witnesses, and state diffs_ for decentralized storage.
       * **To Nodes:** Provides the network with access to required data for validation and re-execution.
