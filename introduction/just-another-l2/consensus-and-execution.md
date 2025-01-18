@@ -70,12 +70,22 @@ To address the bottlenecks inherent in Layer-1 networks, Layer-2 (L2) solutions 
     * Ordering and executing transactions efficiently.
     * Publishing a block.
 
-    While centralized, this approach is viable because the **security of the L2 is anchored to the L1**, which validates the correctness of the sequencer’s outputs.
+    While centralized, this approach is viable because the **security of the L2 is anchored to the L1**, which validates the correctness of the sequencer’s outputs. However, this is not entirely accurate. The **time to finality (TTF)** must be considered.
 2. **Verification by Nodes:**\
    All nodes on the L2 re-execute the transactions ordered by the sequencer to:
    * Update their local state.
    * Verify the sequencer’s work and ensure no errors or malicious behavior occurred.
-3. **Batch Commitments:**\
-   The sequencer periodically submits a batch of transactions and the resulting state changes to the L1. This ensures the L2 inherits the trust and immutability of the L1.
+3.  **Batch Commitments:**
 
-**MegaETH** introduces an innovation to this model by further optimizing execution: The sequencer directly publishes the **state diff**, allowing other nodes to skip redundant execution. Nodes simply update their local state based on the diff.
+    The sequencer periodically submits batches of transactions and the resulting state changes to Layer 1 (L1):
+
+    * **Submission to L1**: A Layer 2 (L2) sends a hash of its state to L1 via blobs.
+    * **Optimistic Rollups**:
+      * The submitted hash can be challenged by anyone within a **7-day dispute period**.
+      * This process introduces two key challenges:
+        * **Data Availability**: Without access to all necessary information, verifying the hash becomes difficult.
+        * **Finality Limitation**: After 7 days, rolling up the chain is impossible, as users may have bridged their funds during this period.
+    * **ZK Rollups**:
+      * Enhanced security is achieved by providing a proof to L1 that guarantees the validity of all transactions.
+
+**MegaETH** introduces an innovation to this model by further optimizing execution.
