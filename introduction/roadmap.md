@@ -19,6 +19,10 @@ _**Note**: The roadmap is dynamic and subject to change. Future milestones are d
 
 ***
 
+### MegaETH Timeline
+
+<figure><img src="../.gitbook/assets/ME_Timeline_v3(v1_updated)_white.png" alt=""><figcaption></figcaption></figure>
+
 ### Past Milestones
 
 * **2023: Laying the Foundation**
@@ -37,6 +41,6 @@ _**Note**: The roadmap is dynamic and subject to change. Future milestones are d
 
 ***
 
-### Roadmap Visualization
+### MegaMafia Timeline
 
 A visual representation of the timeline is **currently under construction**.🚧✨
