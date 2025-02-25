@@ -40,7 +40,7 @@ To stay up-to-date with important tweets and updates, check out this [Twitter Fe
 
 * [**MegaETH Only | ∑:**](https://x.com/Mega_Ecosystem)\
   Bringing you the latest updates and alpha on MegaETH and its ecosystem.
-* [**jaehaerys ∑:**](https://x.com/key_aqbota)\
+* [**jaehaerys ∑:**](https://x.com/berachein)\
   Specializing in analysis and search.
 * [**Moonshot | ∑:**](https://x.com/Moonshot211)\
   Writing about Ethereum, DeFi, and L2s. Behind the **MegaETH Only** account. Novice data analyst sharing valuable insights.
