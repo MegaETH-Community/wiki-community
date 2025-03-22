@@ -15,32 +15,33 @@ layout:
 
 # Roadmap
 
-_**Note**: The roadmap is dynamic and subject to change. Future milestones are designed to evolve with ecosystem maturity and community feedback._
-
-***
-
 ### MegaETH Timeline
 
-<figure><img src="../.gitbook/assets/ME_Timeline_v3(v1_updated)_white.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ME_Timelinde_v5.png" alt=""><figcaption></figcaption></figure>
 
-### Past Milestones
+### MegaETH Roadmap: Turning Vision into Reality
 
-* **2023: Laying the Foundation**
-  * Conducted rigorous performance benchmarking tests.
-  * Faced challenges and pushbacks while staying true to original design principles.
-  * Defined the vision for MegaETH's endgame.
-* **2024: Seeding the Ecosystem**
-  * Launched **MegaMafia**, a builders’ program accelerating fully on-chain, real-time applications.
-  * Announced the [**World Computer thesis**](https://x.com/yangl1996/status/1861652600808255957): A single, composable, open, and permissionless state machine.
+**Past Events (2025)**
 
-### **2025: Turning Vision into Reality**
+* **10/01/2025**: Launched new MegaETH website and domain.
+* **24/01/2025**: Announced **MegaForge** (MegaMafia 2.0), an open, permissionless initiative ([Tweet 1](https://x.com/hotpot_dao/status/1878896282082615346) | [Tweet 2](https://x.com/megaeth_labs/status/1882829039603470371)).
+* **05/02/2025**: Revealed **"The Fluffle"** NFT collection (10k soulbound NFTs, ≥5% network stake) ([Announcement](https://x.com/megaeth_labs/status/1886947683220234670) | [Website](https://www.megaeth.com/thefluffle)).
+  * Minting in two 5k tranches: retroactive (completed **11-12/02**) and proactive (TBD).
+* **03/03/2025**: Testnet announcement ([tweet](https://x.com/megaeth_labs/status/1896675119332045188)).
+  * **06/03**: Testnet deployed.
+  * **06-10/03**: Onboarded apps and infrastructure.
+  * **Maintenance & Upgrades**:
+    * **08, 12, 14, 16, 18 March**: Network tune-ups for stability and performance.
+  * **21/03**: User onboarding with testnet ETH distribution ([tweet](https://x.com/megaeth_labs/status/1903099481874153880)).
 
-* **MegaETH Testnet Launch** - **ETA**: Q1 2025
-  * **MegaMafia 2.0**: The MegaMafia program will evolve into a more open and permissionless initiative.
-* **MegaETH Mainnet Launch**
+**Future Events**
+
+* **Current testnet:** Signature state trie / Streaming EVM / Efficient state sync. **Soon:** parallelization / JIT compilation / optimized storage backend.
+* **21/03 - Mainnet** **Launch**: Minting of second 5k NFT tranche for proactive users.
+* **Date TBD**: **MegaETH Mainnet** launch.
 
 ***
 
 ### MegaMafia Timeline
 
-A visual representation of the timeline is **currently under construction**.🚧✨
+A visual representation of the timeline is **currently under construction**.🚧
