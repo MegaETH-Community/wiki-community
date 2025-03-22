@@ -25,7 +25,7 @@ No projects have been released yet.
 
 The **MegaMafia** program, accessible through the [MegaMafia page](https://www.megaeth.com/builder), features projects developed as part of the 10x Builders Program. Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for updates.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Independent Projects
 
@@ -50,6 +50,7 @@ This section highlights projects building on or planning to integrate with MegaE
 
 ### Additional Resources
 
+* [Official List](https://testnet.megaeth.com/#5)
 * Community MegaETH project lists:
   * [Jaehaerys notion page](https://jaehaerys.notion.site/1472bc05039d80689007fbe156de7385?v=4b5dc87108724bb6875d24836fb1e1e6)
   * [Projects categorize](https://x.com/megaethra/status/1902216544890888336)

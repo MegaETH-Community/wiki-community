@@ -24,7 +24,9 @@
 
 ## Guide
 
-* [User Guide](guide/user-guide.md)
+* [User Guide](guide/user-guide/README.md)
+  * [Onboarding](guide/user-guide/onboarding.md)
+  * [Exploring](guide/user-guide/exploring.md)
 * [Builder Guide](guide/builder-guide/README.md)
   * [Programs](guide/builder-guide/programs.md)
   * [Build](guide/builder-guide/build.md)
