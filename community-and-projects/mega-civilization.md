@@ -38,27 +38,27 @@ To stay up-to-date with important tweets and updates, check out this [Twitter Fe
 
 ### Community Contributors
 
-* [**MegaETH Only | ∑:**](https://x.com/Mega_Ecosystem)\
-  Bringing you the latest updates and alpha on MegaETH and its ecosystem.
-* [**jaehaerys ∑:**](https://x.com/berachein)\
-  Specializing in analysis and search.
-* [**Moonshot | ∑:**](https://x.com/Moonshot211)\
-  Writing about Ethereum, DeFi, and L2s. Behind the **MegaETH Only** account. Novice data analyst sharing valuable insights.
+The MegaETH community thrives thanks to passionate individuals bringing their expertise and energy. Here are some key contributors:
+
+* [**MegaETH Only | ∑**](https://x.com/Mega_Ecosystem): Delivers the latest updates and alpha on MegaETH and its ecosystem.
+* [**Ultra**](https://x.com/0x_ultra): Created [Fluffle Tools](https://www.fluffle.tools/), a go-to resource for exploring MegaETH.
+* [**Jaehaerys ∑**](https://x.com/berachein): Specializes in analysis and research.
+* [**Moonshot | ∑**](https://x.com/Moonshot211): Writes about Ethereum, DeFi, and L2s. Runs the MegaETH Only account and shares novice data insights.
+* [**Hyeon**](https://x.com/hyeon__dev): Provides news and updates for the MegaETH ecosystem.
 * [**Makise**](https://x.com/mvkise)
-* ...and more, each bringing their expertise and energy to the community.
+* ...and more, each adding their unique skills to the community.
 
 ***
 
 ### **Community Projects**
 
-The MegaETH community continues to create resources to support its growth and foster collaboration:
+The MegaETH community keeps creating resources to support growth and collaboration:
 
-1. [**Jaehaerys**](https://x.com/key_aqbota)**'s Notion Page**\
-   A comprehensive summary of MegaETH concepts with animations and visual aids. Check it out here: [MegaETH](https://jaehaerys.notion.site/MegaETH-1472bc05039d80caaba9ea708fee4806).
-2. **MegaHub**\
-   [MegaHub](https://www.megahub.live/) serves as a centralized platform to consolidate information, publish newsletters, and keep the community informed.
+* [**Fluffle Tools**](https://www.fluffle.tools/): Built by Ultra, this platform lists and explores MegaETH ecosystem projects. It lets the community vote on favorites, with sorting, filtering, and social links for each project. A must-visit for diving into MegaETH.
+* [**MegaHub**](https://www.megahub.live/): A centralized hub for consolidating info, publishing newsletters, and keeping the community updated.
+* [**MegaETH Time**](https://www.megaeth-times.com/)[**s**](https://www.megaeth-times.com/): A news source for MegaETH updates.
 
-These projects, created by passionate community members, provide invaluable resources and insights for anyone eager to dive into the MegaETH ecosystem.
+These projects, driven by dedicated community members, offer invaluable resources and insights for anyone eager to explore the MegaETH ecosystem.
 
 ***
 

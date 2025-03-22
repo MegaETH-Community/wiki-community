@@ -15,13 +15,16 @@ layout:
 
 # Tools
 
-A variety of tools are available to support builders in creating efficient, high-performance dApps on MegaETH. These tools include:
+Tools for building and analyzing dApps on MegaETH:
 
-* **Toolchain**
-* **Block Explorer**
-* **RPC Services**
-* **Data Indexer**
-* **Oracle Solutions**
-* ...and more.
+* **Explorers**:
+  * [MegaExplorer](https://www.megaexplorer.xyz/)
+  * [OKX Testnet Explorer](https://web3.okx.com/fr/explorer/megaeth-testnet-explorer)
+* **Monitoring**: [Uptime Monitor](https://uptime.megaeth.com/)
+* **Coming Soon**: Indexers, Oracles.
 
-These tools are designed to align with MegaETH’s high-performance mainnet, simplifying the development process and enabling seamless project deployment.
+***
+
+#### Resources:
+
+* [Official Testnet Site](https://testnet.megaeth.com/#3)
