@@ -15,19 +15,11 @@ layout:
 
 # Projects
 
-## MegaETH Projects
-
-This page brings together all **MegaETH** ecosystem projects, from community efforts to official programs.
-
-For the best way to explore MegaETH projects, head to [**Fluffle Tools**](https://www.fluffle.tools/), created by [@0x\_ultra](https://x.com/0x_ultra/status/1895105354674909442).
-
-***
+This page brings together all **MegaETH** ecosystem projects, from community efforts to official programs. For the best way to explore MegaETH projects, head to [**Fluffle Tools**](https://www.fluffle.tools/), created by [@0x\_ultra](https://x.com/0x_ultra/status/1895105354674909442).
 
 ### MegaForge
 
 No projects have been released yet.
-
-***
 
 ### MegaMafia Projects
 
@@ -56,7 +48,7 @@ This section highlights projects building on or planning to integrate with MegaE
 
 ***
 
-### Additional Resource
+### Additional Resources
 
 * Community MegaETH project lists:
   * [Jaehaerys notion page](https://jaehaerys.notion.site/1472bc05039d80689007fbe156de7385?v=4b5dc87108724bb6875d24836fb1e1e6)
