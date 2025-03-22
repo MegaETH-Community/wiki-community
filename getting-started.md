@@ -33,6 +33,7 @@ Curious about what MegaETH is and why it’s not just another Layer-2 solution? 
 Ready to understand how MegaETH operates and what makes it unique? Start with:
 
 * [Overview Page](deep-dive/overview.md) – A high-level breakdown of MegaETH's architecture and key features.
+* [User Guide](guide/user-guide/) – To learn how to use MegaETH and possibly claim one of the remaining 5,000 Fluffle NFTs.
 
 ***
 
