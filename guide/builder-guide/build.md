@@ -55,5 +55,6 @@ The official docs are your go-to for understanding how MegatETH works and how to
 Here are some extra goodies to support your building journey:
 
 * **Official Testnet Site:** [MegatETH Testnet](https://testnet.megaeth.com/#1)
+* **Tools:** Go to this [page](../../community-and-projects/ecosystem/tools.md)
 * [Fluffle builders Hub](https://x.com/0x_ultra/status/1902711217762050295)
 
