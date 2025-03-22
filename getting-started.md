@@ -48,5 +48,5 @@ Want the latest updates, community insights, and ecosystem news? Explore these r
 
 Are you a developer, builder, or just curious about what’s possible with MegaETH? This is your starting point:
 
-* [Builder Guide](guide/builder-guide.md) – Learn how to contribute, develop tools, and deploy on MegaETH.
+* [Builder Guide](guide/builder-guide/) – Learn how to contribute, develop tools, and deploy on MegaETH.
 * [Ecosystem Projects](community-and-projects/ecosystem/) – Explore existing projects, tools, and resources to jumpstart your journey.

@@ -25,7 +25,9 @@
 ## Guide
 
 * [User Guide](guide/user-guide.md)
-* [Builder Guide](guide/builder-guide.md)
+* [Builder Guide](guide/builder-guide/README.md)
+  * [Programs](guide/builder-guide/programs.md)
+  * [Build](guide/builder-guide/build.md)
 
 ## Community & Projects
 
