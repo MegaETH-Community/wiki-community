@@ -36,7 +36,7 @@ layout:
 
 **Future Events**
 
-* **Current testnet:** Signature state trie / Streaming EVM / Efficient state sync. **Soon:** parallelization / JIT compilation / optimized storage backend.
+* **Current testnet:** Signature state trie / Streaming EVM / Efficient state sync. **Soon:** parallelization / JIT compilation / optimized storage backend ([Testnet Roadmap](https://testnet.megaeth.com/#2)).
 * **21/03 - Mainnet** **Launch**: Minting of second 5k NFT tranche for proactive users.
 * **Date TBD**: **MegaETH Mainnet** launch.
 
