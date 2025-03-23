@@ -41,12 +41,30 @@ To stay up-to-date with important tweets and updates, check out this [Twitter Fe
 The MegaETH community thrives thanks to passionate individuals bringing their expertise and energy. Here are some key contributors:
 
 * [**MegaETH Only | ∑**](https://x.com/Mega_Ecosystem): Delivers the latest updates and alpha on MegaETH and its ecosystem.
+* [**Ser Dave | Σ:**](https://x.com/SerrDavee)
+* [**MegaETH Intern | ∑:**](https://x.com/megaethcult) Building the cult around MegaETH.
+* [**Fimmoncaci**](https://x.com/fimmonaci)
+* [**Basit | Σ:**](https://x.com/basitWeb3)
+* [**Makise**](https://x.com/mvkise)
+* [**OMNI | Σ:**](https://x.com/tbx_inmo)
+* [**Arka Mega Σ:**](https://x.com/ArkaMegaEth)
+* [**MegaEthra**](https://x.com/megaethra)
 * [**Ultra**](https://x.com/0x_ultra): Created [Fluffle Tools](https://www.fluffle.tools/), a go-to resource for exploring MegaETH.
 * [**Jaehaerys ∑**](https://x.com/berachein): Specializes in analysis and research.
 * [**Moonshot | ∑**](https://x.com/Moonshot211): Writes about Ethereum, DeFi, and L2s. Runs the MegaETH Only account and shares novice data insights.
 * [**Hyeon**](https://x.com/hyeon__dev): Provides news and updates for the MegaETH ecosystem.
-* [**Makise**](https://x.com/mvkise)
-* ...and more, each adding their unique skills to the community.
+* [**useyo ∑:**](https://x.com/0xCuseyo)
+* [**Julien Coppola**](https://x.com/juliencoppola)
+* [**Mikeeuwu**](https://x.com/mikee_uwu)
+* [**Purplearc Σ:**](https://x.com/purplearccc)
+* [**Scorpy | ∑:**](https://x.com/sscorpy_)
+* [**IAmOhJay | Σ:**](https://x.com/OhJay_001)
+* [**Bejo**](https://x.com/mrbeardjo)
+* [**Koki**](https://x.com/k0k1mania)
+* [**Myself Vanilla | Σ:**](https://x.com/mmyselfvvanilla)
+* [**eliot**](https://x.com/cryptowoodd)
+* [**Piair**](https://x.com/HiPiair)
+* ...and [more](https://www.megahub.live/ecosystem), each adding their unique skills to the community.
 
 ***
 
