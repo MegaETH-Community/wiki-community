@@ -20,4 +20,4 @@ This section explains how users can interact with the **MegaETH** ecosystem. Lea
 Check out these subpages for detailed guidance:
 
 * [Onboarding](onboarding.md) – Get started with MegaETH.
-* [Exploring](exploring.md) – Dive into apps, projects, and community roles.
+* [Exploring](hunting.md) – Dive into apps and projects.
