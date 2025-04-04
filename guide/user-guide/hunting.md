@@ -1,5 +1,5 @@
 ---
-icon: wpexplorer
+icon: user-bounty-hunter
 layout:
   title:
     visible: true

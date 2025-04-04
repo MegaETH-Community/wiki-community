@@ -19,21 +19,18 @@ What do you want to explore today? Choose the right path based on your interests
 
 ***
 
-#### **1. Learn About MegaETH**
+#### **1. Hunt and Be Part of the Ecosystem**
 
-Curious about what MegaETH is and why it’s not just another Layer-2 solution? Start here to learn the foundational concepts:
-
-* [What is MegaETH?](introduction/what-is-megaeth.md) – Dive into the vision and architecture of MegaETH.
-* [Just Another L2?](introduction/just-another-l2/) – Understand Blockchain Basics.
+🚨 Explore our [Hunting Guide](guide/user-guide/hunting.md) to start earning rewards and join the community.
 
 ***
 
-#### **2. Explore How MegaETH Works**
+#### **2. Understand & Explore MegaETH**
 
-Ready to understand how MegaETH operates and what makes it unique? Start with:
-
-* [Overview Page](deep-dive/overview.md) – A high-level breakdown of MegaETH's architecture and key features.
-* [User Guide](guide/user-guide/) – To learn how to use MegaETH and possibly claim one of the remaining 5,000 Fluffle NFTs.
+* [What is MegaETH?](introduction/what-is-megaeth.md) – Dive into the vision and architecture of MegaETH.
+* [Just Another L2?](introduction/just-another-l2/) – Understand blockchain basics.
+* [Overview Page](deep-dive/overview.md) – Get a high-level breakdown of MegaETH's architecture and key features.
+* [User Guide](guide/user-guide/) – Learn how to use MegaETH and possibly claim one of the remaining 5,000 Fluffle NFTs.
 
 ***
 
