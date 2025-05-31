@@ -29,7 +29,7 @@ What do you want to explore today? Choose the right path based on your interests
 
 * [What is MegaETH?](introduction/what-is-megaeth.md) – Dive into the vision and architecture of MegaETH.
 * [Just Another L2?](introduction/just-another-l2/) – Understand blockchain basics.
-* [Overview Page](deep-dive/overview.md) – Get a high-level breakdown of MegaETH's architecture and key features.
+* [Overview Page](deep-dive/architecture/) – Get a high-level breakdown of MegaETH's architecture and key features.
 * [User Guide](guide/user-guide/) – Learn how to use MegaETH and possibly claim one of the remaining 5,000 Fluffle NFTs.
 
 ***

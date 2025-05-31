@@ -17,10 +17,16 @@
 
 ## Deep Dive
 
-* [Overview](deep-dive/overview.md)
-* [Node Specialization](deep-dive/node-specialization.md)
-* [Hyper-Optimizing the EVM](deep-dive/hyper-optimizing-the-evm.md)
-* [EigenLayer](deep-dive/eigenlayer.md)
+* [Architecture](deep-dive/architecture/README.md)
+  * [Node Specialization](deep-dive/architecture/node-specialization.md)
+  * [EVM Optimization](deep-dive/architecture/evm-optimization/README.md)
+    * [Technical Solutions](deep-dive/architecture/evm-optimization/technical-solutions.md)
+  * [EigenLayer](deep-dive/architecture/eigenlayer.md)
+
+***
+
+* [Infrastructure](infrastructure.md)
+* [Protocol Mechanics](protocol-mechanics.md)
 
 ## Guide
 

@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Overview
+# Architecture
 
 Blockchains are complex systems with interconnected components, where solving one bottleneck often creates another. Scaling a blockchain to support real-time performance requires a **holistic and principled approach** that addresses all critical limitations simultaneously. MegaETH adopts this methodology, combining deep performance analysis with innovative solutions to ensure meaningful and lasting improvements.
 
@@ -22,9 +22,9 @@ The following diagram highlights the **key challenges** that blockchains face in
 1. **Node Specialization**: Leveraging tailored hardware setups to eliminate bottlenecks in state access and transaction processing.
 2. **Hyper-Optimizing the EVM**: Implementing cutting-edge techniques like in-memory computing, bytecode compilation, and parallel execution to unlock the full potential of blockchain infrastructure.
 
-<figure><img src="../.gitbook/assets/MegaETH_PB_v4_cut1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MegaETH_PB_v4_cut1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/MegaETH_PB_v4_cut2 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MegaETH_PB_v4_cut2 (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -65,6 +65,7 @@ By approaching the problem comprehensively, MegaETH ensures that all components 
 
 **Additional Resources**
 
+* [ENDGAME: Practically eliminating block gas limits for developers](https://x.com/megaeth_labs/status/1904531515368997213) - A must-read, complementary explanation of what we've just seen.
 * [World Computer Paper](https://worldcomputer.day/) – Learn more about the concept of a "world computer".
 * [MegaHub Community Articles](https://www.megahub.live/articles) – Explore community-articles.
 * [Real-Time Blockchain Article](https://jaehaerys.notion.site/First-Real-Time-Blockchain-15b2bc05039d80d4a604c8724cfadcb6) – Insights into real-time blockchain innovations.

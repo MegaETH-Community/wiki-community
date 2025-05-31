@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Hyper-Optimizing the EVM
+# EVM Optimization
 
 Modern hardware is highly capable of supporting blockchain workloads at an incredible scale. However, software inefficiency prevents execution clients from fully utilizing these resources.
 
@@ -71,10 +71,13 @@ To address this, we focus on three critical areas: **High Transaction Throughput
         * For **100,000 ERC-20 transfers/second**, this results in **6M database reads/second**, exceeding SSD capabilities.
       * **Scalability Limits**: Current trie structures struggle with terabyte-scale states, especially under high transaction throughput.
       * **Software Overheads**: Even optimized approaches (e.g., grouping nodes into disk pages) fall short of desired performance.
-    * **Solution: A New State Trie**:
-      * **Minimal Disk I/O**: Groups multiple trie nodes, reducing random reads and writes to the absolute minimum.
-      * **Scalability**: Handles terabyte-scale blockchain states efficiently, even with limited RAM.
-      * **Light Client Support**: Maintains compatibility with storage proofs for decentralized validation.
+    *   **Solution: A New State Trie**:
+
+        * **Minimal Disk I/O**: Groups multiple trie nodes, reducing random reads and writes to the absolute minimum.
+        * **Scalability**: Handles terabyte-scale blockchain states efficiently, even with limited RAM.
+        * **Light Client Support**: Maintains compatibility with storage proofs for decentralized validation.
+
+        → For detailed implementation, see our [QMDB solution in Technical Solutions](technical-solutions.md#qmdb-solving-state-root-updates)
 
 
 *   **In-Memory Computing**
@@ -107,10 +110,13 @@ To address this, we focus on three critical areas: **High Transaction Throughput
         * Example: A simple **ADD** operation involves multiple memory accesses, stack adjustments, and conditional jumps, making it inefficient.
       * **Current Limitations**: While tools like **evmone** achieve >6,000 token swaps/second on a single core, this is still far from the native performance needed for compute-intensive applications.
       * **Limited Impact on Certain Contracts**: Non-compute-intensive operations (e.g., `keccak256`, `sload`, `sstore`) already optimized in Rust see marginal benefits from JIT.
-    * **Solution**:
-      * Implemented **JIT Compilation**: Converts EVM bytecode into native machine code at runtime.
-        * Eliminates interpretation overhead, reducing CPU instructions to the bare minimum.
-        * Delivers near **bare-metal performance** for compute-heavy contracts.
+    *   **Solution**:
+
+        * Implemented **JIT Compilation**: Converts EVM bytecode into native machine code at runtime.
+          * Eliminates interpretation overhead, reducing CPU instructions to the bare minimum.
+          * Delivers near **bare-metal performance** for compute-heavy contracts.
+
+        → See [JIT Compilation details in Technical Solutions](technical-solutions.md#jit-compilation-unlocking-compute-performance)
     * **Benefits**:
       * **Up to 100x Speedup**: Contracts like Uniswap swaps experience significant improvements, enabling execution that was previously impractical.
       * **Unlocks Compute-Intensive dApps**: Facilitates a new generation of applications requiring heavy computation, such as advanced financial models or gaming logic.
@@ -122,11 +128,14 @@ To address this, we focus on three critical areas: **High Transaction Throughput
 
 * **Write-Optimized Storage Backend**
   * **Problem:** High write amplification and single-writer locks in existing databases (e.g., MDBX) lead to poor write performance.
-  * **Solution:**
-    * Revamped the storage backend to:
-      * Optimize write performance.
-      * Maintain predictable read latencies.
-    * Enables handling of extremely high state update rates while supporting higher block gas limits.
+  *   **Solution:**
+
+      * Revamped the storage backend to:
+        * Optimize write performance.
+        * Maintain predictable read latencies.
+      * Enables handling of extremely high state update rates while supporting higher block gas limits.
+
+      → See [Write-Optimized Storage details in Technical Solutions](technical-solutions.md#write-optimized-storage-backend)
 
 ***
 
@@ -142,15 +151,18 @@ To address this, we focus on three critical areas: **High Transaction Throughput
         * Even with advanced techniques like Block-STM, **contentious workloads** can lead to cascading aborts, reducing efficiency and sometimes making sequential execution faster.
       * **Deterministic Concurrency Control (CC)**:
         * Protocols like Block-STM guarantee consistency but cannot prevent cascading aborts, making them unsuitable for highly contentious workloads.
-    * **Solution: Two-Pronged Approach**:
-      1. **Block Production**:
-         * MegaETH’s centralized sequencer can leverage **non-deterministic CC algorithms** that:
-           * Are simpler to implement.
-           * Scale to 100s of cores.
-           * Avoid cascading aborts entirely.
-      2. **Block Validation**:
-         * Full nodes use **stateless validation**, executing blocks in parallel without risking state contention.
-         * This ensures that validation workloads can fully benefit from available hardware resources.
+    *   **Solution: Two-Pronged Approach**:
+
+        1. **Block Production**:
+           * MegaETH’s centralized sequencer can leverage **non-deterministic CC algorithms** that:
+             * Are simpler to implement.
+             * Scale to 100s of cores.
+             * Avoid cascading aborts entirely.
+        2. **Block Validation**:
+           * Full nodes use **stateless validation**, executing blocks in parallel without risking state contention.
+           * This ensures that validation workloads can fully benefit from available hardware resources.
+
+        → For implementation details, see [Two-Pronged Parallel Execution in Technical Solutions](technical-solutions.md#two-pronged-parallel-execution)
     *   **Benefits**:
 
         * **Maximized Parallel Speedup**: By optimizing both production and validation workflows, the system avoids bottlenecks seen in deterministic approaches.
@@ -170,10 +182,13 @@ To address this, we focus on three critical areas: **High Transaction Throughput
         * Sustainable bandwidth for many nodes is lower than advertised (e.g., \~75 Mbps in practice).
         * Connections must share bandwidth with other applications and reserve headroom for bootstrapping new nodes.
         * Peer-to-peer protocols introduce additional overheads, reducing effective utilization.
-    * **Solution**:
-      * **Custom Networking Protocol**: Optimized for **low-latency** and **high-throughput synchronization**.
-      * **Novel Compression Techniques**: Reduce the size of state diffs to fit within limited bandwidth (e.g., **19x compression** for syncing 100,000 Uniswap swaps/second within **25 Mbps**).
-      * **Scalable Design**: Allows even low-cost, low-bandwidth nodes to stay synchronized with the network.
+    *   **Solution**:
+
+        * **Custom Networking Protocol**: Optimized for **low-latency** and **high-throughput synchronization**.
+        * **Novel Compression Techniques**: Reduce the size of state diffs to fit within limited bandwidth (e.g., **19x compression** for syncing 100,000 Uniswap swaps/second within **25 Mbps**).
+        * **Scalable Design**: Allows even low-cost, low-bandwidth nodes to stay synchronized with the network.
+
+        → Learn more about our [State Sync Compression in Technical Solutions](technical-solutions.md#state-sync-compression-solving-bandwidth-limits)
     * **Benefits**:
       * Maintains **100,000 TPS synchronization** even under constrained network conditions.
       * Ensures new nodes can join and catch up quickly to the latest blockchain state.
@@ -183,9 +198,12 @@ To address this, we focus on three critical areas: **High Transaction Throughput
 
     Introduces a **co-designed pipeline** for real-time transaction processing, operating asynchronously with key components like the **storage backend** and **state trie**.
 
-    * **Core Features**:
-      * Processes transactions continuously, emitting results in real time.
-      * Achieves **1-ms block times** for fast transaction propagation and low-latency communication.
+    *   **Core Features**:
+
+        * Processes transactions continuously, emitting results in real time.
+        * Achieves **1-ms block times** for fast transaction propagation and low-latency communication.
+
+        → See the [mini-blocks implementation](technical-solutions.md#mini-blocks-enabling-real-time-blockchain) enabling 10ms block times (targeting 1ms).
     * **User Experience and Infrastructure**:
       * Users rely on **RPC nodes** and web frontends (e.g., **etherscan.io**) to interact with the blockchain.
       * Supporting infrastructure must:

@@ -15,13 +15,13 @@ layout:
 
 # Node Specialization
 
-As discussed in the[ **Consensus & Execution**](../introduction/just-another-l2/consensus-and-execution.md) page, traditional **Layer-1 (L1) blockchains** often require every node to perform **all** the heavy lifting—consensus, transaction ordering, and execution—leading to redundant work and inherent scaling limits. **Node specialization** breaks this monolithic model by assigning **specific tasks** to **dedicated nodes**, unlocking significant gains in throughput and responsiveness.
+As discussed in the[ Consensus & Execution](../../introduction/just-another-l2/consensus-and-execution.md) page, traditional **Layer-1 (L1) blockchains** often require every node to perform **all** the heavy lifting—consensus, transaction ordering, and execution—leading to redundant work and inherent scaling limits. **Node specialization** breaks this monolithic model by assigning **specific tasks** to **dedicated nodes**, unlocking significant gains in throughput and responsiveness.
 
 ### Diagram of Node Roles and Interactions
 
 Below is a high-level diagram illustrating how MegaETH implements node specialization. You’ll see the four major node roles—**Sequencer**, **Prover**, **Replica**, and **Full Node**—as well as the interactions among them and an external **EigenDA** component for data availability.
 
-<figure><img src="../.gitbook/assets/MegaETH_node_spe_v4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MegaETH_node_spe_v4 (3).png" alt=""><figcaption></figcaption></figure>
 
 ### How the Diagram Works
 
