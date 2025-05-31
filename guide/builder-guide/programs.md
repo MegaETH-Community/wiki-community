@@ -37,7 +37,30 @@ This page outlines programs and resources for developers building on MegaETH.
 
 ***
 
-**2. Build Independently on MegaETH**
+**2. MegaMafia 2.0: The Premier Accelerator Program**.
+
+**MegaMafia 2.0** was launched on [April 24th](https://x.com/0xMegaMafia/status/1915073541705179305) as the second cohort! This intensive accelerator program focuses on what truly matters: **applications over infrastructure**.
+
+**Program Overview:**
+
+* **Focus**: Accelerating ecosystem-defining applications rather than infrastructure projects
+* **Structure**: Year-long program with 15 teams across 3 locations
+* **Approach**: In-person collaboration, shared experiences, and intense 0-1 focus
+
+**Core Philosophy:** The program operates on the thesis that the space is oversaturated with infrastructure, while few focus on accelerating what truly matters: applications. MegaETH's performance capabilities are meaningless without exceptional applications to utilize them.
+
+Participants work directly with the MegaETH core team, MegaMafia alumni, and advisors to build applications that can only exist on a real-time blockchain.
+
+**MegaMafia 1.0: Proven Success** The original MegaMafia program laid the foundation for MegaETH's ecosystem and proved the accelerator model works:
+
+* **$40M+ raised** by participating teams, surpassing MegaETH's own funding
+* **Notable projects**: Noise, GTE, CapMoney, Euphoria, and other ecosystem leaders
+* **Investor backing**: Franklin Templeton, Robot Ventures, Maven 11, Figment Capital
+* **Legacy**: These OG Mafia pioneers shaped the early vision and demonstrated that focused application development drives real ecosystem value. Members hold the exclusive **OG Mafia** role in the Discord community.
+
+***
+
+**3. Build Independently on MegaETH**
 
 * **Access Developer Resources**: Use tools, documentation, and APIs to start building.
 * **Leverage the Ecosystem**: Take advantage of MegaETH's high TPS and sub-millisecond block times.
@@ -46,12 +69,7 @@ This page outlines programs and resources for developers building on MegaETH.
 
 ***
 
-**MegaMafia: The Original Program (OG Mafia)**
-
-The MegaMafia was the original builders’ program that laid the foundation for MegaETH’s ecosystem. It’s no longer accepting new members, but its legacy lives on through the OG Mafia, pioneers who shaped the early vision.
-
-***
-
 **Resources & Bibliography**
 
 * [MegaForge Announcement](https://x.com/megaeth_labs/status/1882829039603470371)
+* **MegaMafia Updates**: Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for the latest program news and announcements
