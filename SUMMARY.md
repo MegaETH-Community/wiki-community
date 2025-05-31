@@ -9,9 +9,9 @@
 * [Just Another L2?](introduction/just-another-l2/README.md)
   * [What Is a Blockchain?](introduction/just-another-l2/what-is-a-blockchain.md)
   * [Consensus & Execution](introduction/just-another-l2/consensus-and-execution.md)
-  * [User Transaction](introduction/just-another-l2/user-transaction.md)
+  * [Transaction Lifecycle](introduction/just-another-l2/transaction-lifecycle.md)
   * [State Sync & Gas Limits](introduction/just-another-l2/state-sync-and-gas-limits.md)
-  * [Legend](introduction/just-another-l2/legend.md)
+  * [Glossary](introduction/just-another-l2/glossary.md)
 * [MegaLabs](introduction/megalabs.md)
 * [Roadmap](introduction/roadmap.md)
 

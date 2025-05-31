@@ -66,6 +66,7 @@ By approaching the problem comprehensively, MegaETH ensures that all components 
 **Additional Resources**
 
 * [ENDGAME: Practically eliminating block gas limits for developers](https://x.com/megaeth_labs/status/1904531515368997213) - A must-read, complementary explanation of what we've just seen.
+* [Stanford Blockchain Review](https://review.stanfordblockchain.xyz/p/66-megaeth-building-a-real-time-blockchain) _-_ MegaETH: Building a Real-Time Blockchain
 * [World Computer Paper](https://worldcomputer.day/) – Learn more about the concept of a "world computer".
 * [MegaHub Community Articles](https://www.megahub.live/articles) – Explore community-articles.
 * [Real-Time Blockchain Article](https://jaehaerys.notion.site/First-Real-Time-Blockchain-15b2bc05039d80d4a604c8724cfadcb6) – Insights into real-time blockchain innovations.

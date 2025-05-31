@@ -25,7 +25,7 @@ No projects have been released yet.
 
 The **MegaMafia** program, accessible through the [MegaMafia page](https://www.megaeth.com/builder), features projects developed as part of the 10x Builders Program. Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for updates.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Independent Projects
 

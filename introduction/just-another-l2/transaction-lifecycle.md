@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# User Transaction
+# Transaction Lifecycle
 
 When you click “Send” or “Confirm” in your wallet, you’re kicking off a **multi-step process** that involves various nodes in the network—each with a specific role. Below is an overview of how a typical transaction flows, from the user’s device all the way to final settlement on the blockchain.
 
@@ -41,9 +41,9 @@ When you click “Send” or “Confirm” in your wallet, you’re kicking off 
   * They then **vote** on whether to accept the block. If the network agrees the block is valid, it becomes part of the chain.
   * Upon receiving an approved block, each node replays (or verifies) the transactions to confirm the state changes.
   * They update their **local copy** of the blockchain’s state (e.g., balances, contract data).
-* **RPC Nodes Synchronize (**[**State Sync**](state-sync-and-gas-limits.md)**)**
+* **RPC Nodes Synchronize (**[State Sync](state-sync-and-gas-limits.md)**)**
   * As **full nodes** and **replica nodes** update their state. This allows them to serve up-to-date information to users and dApps, including updated balances, contract outputs, and the latest blockchain state.
-* **Final Settlement (If Applicable)**
+* **Final Settlement (L2 only)**
   * In a Layer-2 context, periodic **state commitments** or **proofs** are submitted to an L1 (like Ethereum) to ensure trust-minimized security.
   * This step provides an extra layer of safety: if the L2 fails or acts maliciously, the L1’s data can be used to resolve disputes or recover funds.
 
