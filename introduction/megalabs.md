@@ -15,6 +15,8 @@ layout:
 
 # MegaLabs
 
+<figure><img src="../.gitbook/assets/Team_structure_v1 (1).PNG" alt=""><figcaption><p><a href="../community/mega-civilization.md">Mega Civilization</a></p></figcaption></figure>
+
 **Mega Labs** represents a collective of specialists dedicated to optimizing blockchain performance and advancing the **World Computer** concept. Their mission focuses on designing a cutting-edge execution layer that separates execution from consensus, leveraging Ethereum as a settlement layer. By utilizing hyper-specialized node architecture, Mega Labs pushes the limits of performance, constrained only by the capabilities of hardware.
 
 > 📍 Based in [**New York**](https://x.com/hotpot_dao/status/1898790025501790643), Mega Labs is now a **30-person team**.
@@ -55,9 +57,3 @@ Together, this team reflects a rare convergence of **technical mastery** and **p
   **Role**: Developer Relations (DevRel)
 * **Jin** – [X](https://x.com/_Digital_J_) & **William** – [X](https://x.com/troublor)\
   **Role**: Research
-
-### 🪐 Mega Civilization <a href="#team-structure" id="team-structure"></a>
-
-<figure><img src="../.gitbook/assets/ME_Team_Structure_v1.png" alt=""><figcaption></figcaption></figure>
-
-You can discover more about the **community** on the [Mega Civilization](../community/mega-civilization.md) page, and dive deeper into the **projects** on the [Ecosystem ](../community/ecosystem/projects.md)page.
