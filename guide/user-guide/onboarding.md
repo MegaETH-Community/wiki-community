@@ -19,8 +19,8 @@ Welcome to MegaETH! Follow these steps to get started on the testnet:
 
 * **Set Up Your Wallet**: Learn how to configure your wallet for [MegaETH](https://testnet.megaeth.com/#4).
 * **Get Test Tokens**: Use the [faucet](https://testnet.megaeth.com/#3) to grab test tokens for testing.
-* **Explore Tools**: Check out our [Tools page](../../community-and-projects/ecosystem/tools.md) for development resources.
-* **Discover Projects**: Explore community and official projects on our [Projects page](../../community-and-projects/ecosystem/projects.md).
+* **Explore Tools**: Check out our [Tools page](../../community/ecosystem/tools.md) for development resources.
+* **Discover Projects**: Explore community and official projects on our [Projects page](../../community/ecosystem/projects.md).
 
 #### Resources
 

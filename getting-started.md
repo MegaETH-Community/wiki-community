@@ -38,7 +38,7 @@ What do you want to explore today? Choose the right path based on your interests
 
 Want the latest updates, community insights, and ecosystem news? Explore these resources:
 
-* [Mega Civilization](community-and-projects/mega-civilization.md) – Discover the growing MegaETH community and key contributors.
+* [Mega Civilization](community/mega-civilization.md) – Discover the growing MegaETH community and key contributors.
 
 ***
 
@@ -47,4 +47,4 @@ Want the latest updates, community insights, and ecosystem news? Explore these r
 Are you a developer, builder, or just curious about what’s possible with MegaETH? This is your starting point:
 
 * [Builder Guide](guide/builder-guide/) – Learn how to contribute, develop tools, and deploy on MegaETH.
-* [Ecosystem Projects](community-and-projects/ecosystem/) – Explore existing projects, tools, and resources to jumpstart your journey.
+* [Ecosystem Projects](community/ecosystem/) – Explore existing projects, tools, and resources to jumpstart your journey.

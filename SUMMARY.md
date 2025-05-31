@@ -31,9 +31,9 @@
   * [Programs](guide/builder-guide/programs.md)
   * [Build](guide/builder-guide/build.md)
 
-## Community & Projects
+## Community
 
-* [Mega Civilization](community-and-projects/mega-civilization.md)
-* [Ecosystem](community-and-projects/ecosystem/README.md)
-  * [Tools](community-and-projects/ecosystem/tools.md)
-  * [Projects](community-and-projects/ecosystem/projects.md)
+* [Mega Civilization](community/mega-civilization.md)
+* [Ecosystem](community/ecosystem/README.md)
+  * [Tools](community/ecosystem/tools.md)
+  * [Projects](community/ecosystem/projects.md)

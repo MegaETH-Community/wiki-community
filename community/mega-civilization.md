@@ -74,9 +74,21 @@ The MegaETH community keeps creating resources to support growth and collaborati
 
 * [**Fluffle Tools**](https://www.fluffle.tools/): Built by Ultra, this platform lists and explores MegaETH ecosystem projects. It lets the community vote on favorites, with sorting, filtering, and social links for each project. A must-visit for diving into MegaETH.
 * [**MegaHub**](https://www.megahub.live/): A centralized hub for consolidating info, publishing newsletters, and keeping the community updated.
-* [**MegaETH Time**](https://www.megaeth-times.com/)[**s**](https://www.megaeth-times.com/): A news source for MegaETH updates.
+* [MegaETH Times](https://www.megaeth-times.com/): A news source for MegaETH updates.
 
 These projects, driven by dedicated community members, offer invaluable resources and insights for anyone eager to explore the MegaETH ecosystem.
+
+***
+
+### **Fluffle Holders**
+
+**Fluffle NFT** holders enjoy exclusive access and community perks within the MegaETH ecosystem:
+
+* **Access your Fluffle**: View and manage your NFTs at [nft.megaeth.com](https://nft.megaeth.com/)
+* **Dedicated Twitter**: Follow [@TheFluffleNFT](https://x.com/TheFluffleNFT) for Fluffle-specific updates and community content
+* **Exclusive Discord access**: Join the special Fluffle channel by verifying in [#collabland-join](https://discord.com/channels/1219739501673451551/1258315617275088928/1346838579699257375)
+* **Telegram community**: Connect with fellow holders in the [dedicated Telegram group](https://x.com/TheFluffleNFT/status/1922282990199071209)
+* **Want to join?** Check out the [hunting page](../guide/user-guide/hunting.md#not-holders) to learn how to become part of this exclusive community
 
 ***
 

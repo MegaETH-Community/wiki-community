@@ -60,4 +60,4 @@ Together, this team reflects a rare convergence of **technical mastery** and **p
 
 <figure><img src="../.gitbook/assets/ME_Team_Structure_v1.png" alt=""><figcaption></figcaption></figure>
 
-You can discover more about the **community** on the [Mega Civilization](../community-and-projects/mega-civilization.md) page, and dive deeper into the **projects** on the [Ecosystem ](../community-and-projects/ecosystem/projects.md)page.
+You can discover more about the **community** on the [Mega Civilization](../community/mega-civilization.md) page, and dive deeper into the **projects** on the [Ecosystem ](../community/ecosystem/projects.md)page.
