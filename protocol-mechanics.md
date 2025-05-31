@@ -49,7 +49,7 @@ While extremely rare today, MegaETH's reorg risk will further decrease with futu
 
 * Near-instant finality once proof hits L1
 * Reorgs only possible in narrow window (execution → proof submission)
-* L1 reorgs still require L2 to follow (but much rarer)
+* L1 reorgs still require L2 to follow
 
 **Protection strategy today**:
 

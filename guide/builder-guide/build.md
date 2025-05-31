@@ -17,7 +17,7 @@ layout:
 
 This is your starting point if you’re a developer, researcher, or just curious about building on the MegatETH ecosystem. We’ve got all the info you need to get going on the **Testnet**.
 
-Before diving into the details, check out this awesome guide: [**Fluffle Tools Build Page**](https://www.fluffle.tools/#build) by [@0x\_ultra](https://x.com/0x_ultra). It lists tools, chain info, and key resources in a super clear way!
+Before diving into the details, check out the [Fluffle Tools Build Page](https://www.fluffle.tools/#build) by [@0x\_ultra](https://x.com/0x_ultra). It lists, chain info, contract addresses and key resources in a clear way!
 
 ***
 

@@ -15,7 +15,7 @@ layout:
 
 # Builder Guide
 
-This is your **starting point** to understand why MegaETH is the ideal platform for developers ready to **shape the future** of decentralized applications. We’re building a **World Computer**, a global, single state machine designed to deliver applications that outperform anything available today. By choosing MegaETH, you’re not just coding on a blockchain; you’re helping construct a **new civilization**.
+This is your **starting point** to understand why MegaETH is the ideal platform for developers ready to **shape the future** of decentralized applications. They’re building a **World Computer**, a global, single state machine designed to deliver applications that outperform anything available today. By choosing MegaETH, you’re not just coding on a blockchain; you’re helping construct a **new civilization**.
 
 ***
 
@@ -34,7 +34,7 @@ MegaETH stands out as a top platform for developers. Here’s why:
   * **Social**: Leverage abundant blockspace to store and process non-financial data, paving the way for decentralized knowledge graphs and next-gen social apps.
 * **A Thriving Civilization**: MegaETH isn’t just a blockchain, it’s envisioned as a **Mega Civilization**. It’s a community driven by innovation, performance, and a shared passion for bringing delightful design to crypto.
 
-Builders, referred to as the "Mafia", are seen as the heart of this vision. They’re the ones who can destigmatize crypto, deliver financial and emotional value to users, and turn the World Computer thesis into reality. Without builders, there’s no MegaETH.
+Builders are the ones who can destigmatize crypto, deliver financial and emotional value to users, and turn the World Computer thesis into reality. Without builders, there’s no MegaETH.
 
 ***
 

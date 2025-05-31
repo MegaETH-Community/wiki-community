@@ -25,7 +25,7 @@ No projects have been released yet.
 
 The **MegaMafia** program, accessible through the [MegaMafia page](https://www.megaeth.com/builder), features projects developed as part of the 10x Builders Program. Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for updates.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p><a href="https://skygg.substack.com/p/megaeth-another-l2-or-the-catalyst">MegaETH, the Awaited Catalyst to Make Ethereum Great Again?</a></p></figcaption></figure>
 
 ### Independent Projects
 
@@ -33,6 +33,7 @@ This section highlights projects building on or planning to integrate with MegaE
 
 * **Battlefold** ([@Battlefold\_hq](https://x.com/Battlefold_hq)): A strategy guessing game.
 * **comLayer** ([@comlayerdapp](https://x.com/comlayerdapp)): Decentralized communication for DeFi notifications, DAO ops, and more.
+* **Kontos Protocol** ([@Kontosio)](https://x.com/Kontosio): A zk-powered omnichain abstraction layer.
 * **MegaBot** ([@Mega\_BotETH](https://x.com/Mega_BotETH)): High-frequency trading and sniping bot with rug protection.
 * **MegaDEX** ([@megadex\_labs](https://x.com/megadex_labs)): V3 concentrated liquidity AMM.&#x20;
 * **PredictFi** ([@PredictFi](https://x.com/PredictFi)): Prediction market for politics, crypto, sports, and more.
@@ -58,7 +59,7 @@ This section highlights projects building on or planning to integrate with MegaE
 
 **Popular NFT Collections**
 
-* **Bad Bunnz** (@badbunnz\_): Leading collection with strong community engagement - testnet holders get guaranteed mint access
+* **Bad Bunnz** ([@badbunnz\_](https://x.com/badbunnz_)): Leading collection with strong community engagement - testnet holders get guaranteed mint access
 * **MegaRabbit** ([@MegaRabbitNFT](https://x.com/MegaRabbitNFT)): Currently collecting whitelist addresses for upcoming mint
 * [Explore the full NFT ecosystem](https://x.com/themagic_trader/status/1919499081770029075) with dozens of collections launching on MegaETH
 

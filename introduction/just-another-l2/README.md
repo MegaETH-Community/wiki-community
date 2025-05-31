@@ -90,7 +90,7 @@ MegaETH is the **first blockchain operating within Web2 response times**, unlock
 
 The question isn't whether MegaETH is "just another L2." It's whether you're ready for blockchain that finally matches the speed of thought.
 
-**Ready to dive deeper?** Explore our [Deep Dive](broken-reference) section for technical details on how we achieve these breakthrough speeds.
+**Ready to dive deeper?** Explore our [Deep Dive](broken-reference) section for technical details on how they achieve these breakthrough speeds.
 
 ***
 

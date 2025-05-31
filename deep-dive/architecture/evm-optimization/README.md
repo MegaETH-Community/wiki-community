@@ -55,7 +55,7 @@ To illustrate, let’s break down the performance potential of the three primary
 
 ### Software Optimization
 
-To address this, we focus on three critical areas: **High Transaction Throughput (HTT)**, **Abundant Compute Capacity (ACC)**, and **Millisecond-Level Response Times (MLRT)**.
+To address this, they focus on three critical areas: **High Transaction Throughput (HTT)**, **Abundant Compute Capacity (ACC)**, and **Millisecond-Level Response Times (MLRT)**.
 
 ***
 
@@ -77,7 +77,7 @@ To address this, we focus on three critical areas: **High Transaction Throughput
         * **Scalability**: Handles terabyte-scale blockchain states efficiently, even with limited RAM.
         * **Light Client Support**: Maintains compatibility with storage proofs for decentralized validation.
 
-        → For detailed implementation, see our [QMDB solution in Technical Solutions](technical-solutions.md#qmdb-solving-state-root-updates)
+        → For detailed implementation, see the [QMDB solution in Technical Solutions](technical-solutions.md#qmdb-solving-state-root-updates)
 
 
 *   **In-Memory Computing**
@@ -188,7 +188,7 @@ To address this, we focus on three critical areas: **High Transaction Throughput
         * **Novel Compression Techniques**: Reduce the size of state diffs to fit within limited bandwidth (e.g., **19x compression** for syncing 100,000 Uniswap swaps/second within **25 Mbps**).
         * **Scalable Design**: Allows even low-cost, low-bandwidth nodes to stay synchronized with the network.
 
-        → Learn more about our [State Sync Compression in Technical Solutions](technical-solutions.md#state-sync-compression-solving-bandwidth-limits)
+        → Learn more about [State Sync Compression in Technical Solutions](technical-solutions.md#state-sync-compression-solving-bandwidth-limits)
     * **Benefits**:
       * Maintains **100,000 TPS synchronization** even under constrained network conditions.
       * Ensures new nodes can join and catch up quickly to the latest blockchain state.
@@ -201,9 +201,9 @@ To address this, we focus on three critical areas: **High Transaction Throughput
     *   **Core Features**:
 
         * Processes transactions continuously, emitting results in real time.
-        * Achieves **1-ms block times** for fast transaction propagation and low-latency communication.
+        * Achieves **10-ms block times** for fast transaction propagation and low-latency communication.
 
-        → See the [mini-blocks implementation](technical-solutions.md#mini-blocks-enabling-real-time-blockchain) enabling 10ms block times (targeting 1ms).
+        → See the [mini-blocks implementation](technical-solutions.md#mini-blocks-enabling-real-time-blockchain) enabling 10ms block times.
     * **User Experience and Infrastructure**:
       * Users rely on **RPC nodes** and web frontends (e.g., **etherscan.io**) to interact with the blockchain.
       * Supporting infrastructure must:
