@@ -31,20 +31,36 @@ The **MegaMafia** program, accessible through the [MegaMafia page](https://www.m
 
 This section highlights projects building on or planning to integrate with MegaETH independently of the MegaMafia program:
 
-* **Battlefold (**[**@Battlefold\_hq**](https://x.com/Battlefold_hq)**)**: A strategy guessing game.
-* **comLayer (**[**@comlayerdapp**](https://x.com/comlayerdapp)**)**: Decentralized communication for DeFi notifications, DAO ops, and more.
-* **Kontos Protocol (**[**@Kontosio)**](https://x.com/Kontosio): A zk-powered omnichain abstraction layer.
-* **MegaBot (**[**@Mega\_BotETH**](https://x.com/Mega_BotETH)**)**: High-frequency trading and sniping bot with rug protection.
-* **MegaDEX (**[**@megadex\_labs**](https://x.com/megadex_labs)**)**: V3 concentrated liquidity AMM.&#x20;
-* **MegaRabbits (**[**@MegaRabbitNFT**](https://x.com/MegaRabbitNFT)**)**: Futuristic rabbit-themed PFP NFT collection.&#x20;
-* **Mekaeth (**[**@mekaeth\_xyz**](https://x.com/mekaeth_xyz)**)**: Experimental AI-based NFTs pushing boundaries in creativity.
-* **MetaHop (**[**@Meta\_Hop**](https://x.com/Meta_Hop)**)**: Bold PFP NFT collection highlighting MegaETH’s spirit.&#x20;
-* **PredictFi (**[**@PredictFi**](https://x.com/PredictFi)**)**: Prediction market for politics, crypto, sports, and more.
-* **Rabbit Mafia (**[**@RabbitMafiaNFT**](https://x.com/RabbitMafiaNFT)**)**: PFP NFT collection delving into the neon-lit underworld of MegaMafia.&#x20;
-* **RainMakr (**[**@RainMakr\_xyz**](https://x.com/RainMakr_xyz)**)**: All-in-one launchpad for AI agents, memecoins, and major projects.
-* **Ren (**[**@renprotocol**](https://x.com/renprotocol)**)**: Interoperability protocol enabling Bitcoin in DeFi.
-* **StakeStone (**[**@Stake\_Stone**](https://x.com/Stake_Stone)**)**: Omnichain liquidity and adaptive staking for ETH/BTC.
-* **StackUp (**[**@usestackup**](https://x.com/usestackup)**)**: Yield aggregator optimizing returns in MegaETH DeFi.
+* **Battlefold** ([@Battlefold\_hq](https://x.com/Battlefold_hq)): A strategy guessing game.
+* **comLayer** ([@comlayerdapp](https://x.com/comlayerdapp)): Decentralized communication for DeFi notifications, DAO ops, and more.
+* **MegaBot** ([@Mega\_BotETH](https://x.com/Mega_BotETH)): High-frequency trading and sniping bot with rug protection.
+* **MegaDEX** ([@megadex\_labs](https://x.com/megadex_labs)): V3 concentrated liquidity AMM.&#x20;
+* **PredictFi** ([@PredictFi](https://x.com/PredictFi)): Prediction market for politics, crypto, sports, and more.
+* **RainMakr** ([@RainMakr\_xyz](https://x.com/RainMakr_xyz)): All-in-one launchpad for AI agents, memecoins, and major projects.
+* **Ren** ([@renprotocol](https://x.com/renprotocol)): Interoperability protocol enabling Bitcoin in DeFi.
+* **StakeStone** ([@Stake\_Stone](https://x.com/Stake_Stone)): Omnichain liquidity and adaptive staking for ETH/BTC.
+* **StackUp** ([@usestackup](https://x.com/usestackup)): Yield aggregator optimizing returns in MegaETH DeFi.
+
+***
+
+### NFT Collections
+
+**Fluffle NFTs**
+
+* The flagship NFT collection providing exclusive access and community perks
+* Features **Meka and Fluffey**, the dual mascots representing MegaETH's innovation and community spirit - [see their introduction](https://x.com/megaeth_labs/status/1907802325189869607)
+* Learn more about Fluffle NFTs on [The Fluffle page](https://www.megaeth.com/thefluffle)
+
+**NFT Platforms & Marketplaces**
+
+* **Kingdomly** ([@KingdomlyApp](https://x.com/KingdomlyApp)) and **Rarible** ([@rarible](https://x.com/rarible)) are live on MegaETH testnet
+* Active trading with collections like Bad Bunnz reaching significant floor prices
+
+**Popular NFT Collections**
+
+* **Bad Bunnz** (@badbunnz\_): Leading collection with strong community engagement - testnet holders get guaranteed mint access
+* **MegaRabbit** ([@MegaRabbitNFT](https://x.com/MegaRabbitNFT)): Currently collecting whitelist addresses for upcoming mint
+* [Explore the full NFT ecosystem](https://x.com/themagic_trader/status/1919499081770029075) with dozens of collections launching on MegaETH
 
 ***
 

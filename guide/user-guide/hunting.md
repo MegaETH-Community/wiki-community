@@ -62,6 +62,8 @@ Explore projects on the MegaETH testnet with step-by-step guides designed to hel
 * **Guess Best:**\
   A prediction market platform that makes betting fun and intuitive.
 
+Find here a [video guide](https://x.com/OhJay_001/status/1903875628857757997) to show you how to go through this guide, created by [@OhJay\_001](https://x.com/OhJay_001).
+
 #### Discord Roles Explained
 
 Check out this diagram by [@MarkoStevan19](https://x.com/MarkoStevan19/status/1881688979638300713) for a visual breakdown of each role:
