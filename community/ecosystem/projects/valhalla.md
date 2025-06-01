@@ -28,7 +28,7 @@ layout:
 * **Battle-tested trader** - Active participant since 2017/2018, experienced the full spectrum of crypto markets
 * **Industry veteran** - Extensive work with L1s, L2s, DeFi protocols, conducting audits and risk modeling
 
-Tiago's vision centers on **building products people genuinely want to use**, moving beyond theoretical DeFi toward practical, user-friendly infrastructure. ([tweet1](https://x.com/Mega_Ecosystem/status/1872730250590789810) | [tweet2](https://x.com/tiagovalhalla/status/1869414740348608593))
+Tiago's vision centers on **building products people genuinely want to use**, moving beyond theoretical DeFi toward practical, user-friendly infrastructure. [tweet1](https://x.com/Mega_Ecosystem/status/1872730250590789810) | [tweet2](https://x.com/tiagovalhalla/status/1869414740348608593)
 
 ### **Community-First Approach**
 
@@ -72,10 +72,13 @@ Valhalla is building the **first fully on-chain hybrid trading platform** that c
 * **Hybrid execution model** - On-chain settlement with off-chain order matching for optimal performance
 * **Central Limit Order Book (CLOB)** - Professional-grade order matching similar to traditional finance
 * **Real-time composability** - Sub-100ms execution enabling atomic strategies
-* **Yield-bearing collateral** - Support for assets like capUSD from Cap Labs, earning yield while trading
+* **Co-located market makers** - Same-rack sequencers and oracles for CEX-level latency
+* **Multi-collateral support** - Yield-bearing assets like capUSD from Cap Labs, earning yield while trading
+* **Valhalla Vaults (VLP)** - High-yield opportunities through automated vault strategies
+* **Native oracles** - Faster, permissionless market listings without external dependencies
 * **Permissionless market creation** - Fast asset listings when sufficient volume/liquidity exists
 
-**Revolutionary Trading Primitives:** ([tweet1](https://x.com/tiagovalhalla/status/1927370862442828125) | [tweet2](https://x.com/valhalla_defi/status/1869412418021196030))
+**Revolutionary Trading Primitives:** [tweet1](https://x.com/tiagovalhalla/status/1927370862442828125) | [tweet2](https://x.com/valhalla_defi/status/1869412418021196030)
 
 * **Atomic Funding Rate Farming** - Execute spot buy + perp short simultaneously via flash loans, eliminating timing risks and market exposure during strategy setup.
 * **Composable Risk Management** - Smart contracts handle positions and risk, enabling other protocols to build on top of Valhalla's infrastructure.
@@ -101,6 +104,7 @@ As Tiago explains: _"Binance can't do it with their CEX and BNB chain, Hyperliqu
 
 ### **Resources & Further Reading**
 
+* [Official Documentation](https://valhalla-exchange.gitbook.io/valhalla-docs) - Valhalla's technical overview and features
 * [Tiago's Builder Journey](https://x.com/tiagovalhalla/status/1915075799364890765) - Deep dive into Valhalla's origin story
 * [User-First Tokenomics Analysis](https://x.com/tiagovalhalla/status/1924531394467795334) - Tiago's perspective on industry evolution
 * [Community Q\&A Session](https://x.com/Mega_Ecosystem/status/1872730250590789810) - Technical deep dive covering primitives, oracles, and competition
