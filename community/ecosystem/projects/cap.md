@@ -38,7 +38,7 @@ As [Ultra notes](https://x.com/0x_ultra/status/1909260677740703813): "CAP is bui
 * **Seed round** with participation from MegaMafia founders
 * Focus on aligned, long-term stakeholders over traditional VC model
 
-The team maintains active presence across [Community Forum](https://capcommunity.discourse.group/) for governance discussions and collaborates regularly with MegaETH core team and Vitalik as advisor.
+Led by [Benjamin](https://x.com/Benjamin918_) (founder) and [DeFiDave](https://x.com/DeFiDave22) (Head of Growth), the team maintains active presence across [Community Forum](https://capcommunity.discourse.group/) for discussions and collaborates regularly with MegaETH core team and Vitalik as advisor.
 
 ### MegaETH Integration
 
@@ -84,7 +84,7 @@ CAP creates a **three-sided marketplace** that aligns incentives across all part
 * Earn liquidation bonuses for maintaining protocol health
 * Ensure stablecoin holders remain protected at all times
 
-[Benjamin explains](https://x.com/0xyanshu/status/1924477538811986136): "Like Uber doesn't own vehicles and Airbnb doesn't own rooms, CAP doesn't execute yield strategies – it creates the marketplace for others to do so efficiently."
+[Benjamin explains](https://x.com/0xyanshu/status/1924477538811986136): Like Uber doesn't own vehicles and Airbnb doesn't own rooms, CAP doesn't execute yield strategies – it creates the marketplace for others to do so efficiently.
 
 ### Revolutionary Design
 
@@ -106,7 +106,7 @@ CAP represents the evolution beyond existing models:
 
 #### **Shared Security Integration**
 
-CAP pioneers using [EigenLayer](https://x.com/eigenlayer) for **productivity-based rewards** rather than passive validation:
+CAP pioneers using [EigenLayer](https://x.com/eigenlayer/status/1927782535821431152) for **productivity-based rewards** rather than passive validation:
 
 * **Economic underwriting** – Restakers' capital directly backs operator activities
 * **Automatic slashing** – Protocol enforces penalties for defaults or violations
