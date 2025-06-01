@@ -25,7 +25,7 @@ No projects have been released yet.
 
 The **MegaMafia** program, accessible through the [MegaMafia page](https://www.megaeth.com/builder), features projects developed as part of the 10x Builders Program. Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for updates.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p><a href="https://skygg.substack.com/p/megaeth-another-l2-or-the-catalyst">MegaETH, the Awaited Catalyst to Make Ethereum Great Again?</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p><a href="https://skygg.substack.com/p/megaeth-another-l2-or-the-catalyst">MegaETH, the Awaited Catalyst to Make Ethereum Great Again?</a></p></figcaption></figure>
 
 ### Independent Projects
 

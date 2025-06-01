@@ -42,4 +42,5 @@
 * [Mega Civilization](community/mega-civilization.md)
 * [Ecosystem](community/ecosystem/README.md)
   * [Tools](community/ecosystem/tools.md)
-  * [Projects](community/ecosystem/projects.md)
+  * [Projects](community/ecosystem/projects/README.md)
+    * [Valhalla](community/ecosystem/projects/valhalla.md)

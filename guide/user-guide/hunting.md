@@ -39,7 +39,7 @@ Engaging with your Fluffle is important because it unlocks [valuable rewards](ht
 
 #### Hunt
 
-Explore projects on the MegaETH testnet with step-by-step guides designed to help you interact with and understand the ecosystem’s dApps and initiatives. This page is based, in part, on the guides by [@0x\_ultra](https://x.com/0x_ultra/status/1903100994277474567) on the [Fluffle Tools](https://www.fluffle.tools/explore) website. For a complete list of MegaETH projects, visit our[ Projects Page](../../community/ecosystem/projects.md).
+Explore projects on the MegaETH testnet with step-by-step guides designed to help you interact with and understand the ecosystem’s dApps and initiatives. This page is based, in part, on the guides by [@0x\_ultra](https://x.com/0x_ultra/status/1903100994277474567) on the [Fluffle Tools](https://www.fluffle.tools/explore) website. For a complete list of MegaETH projects, visit our[ Projects Page](../../community/ecosystem/projects/).
 
 * **Autonomous World Engine:**\
   An autonomous world engine powering immersive 3D experiences.

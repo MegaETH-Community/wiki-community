@@ -27,4 +27,4 @@ There are still **5,000 Fluffle NFTs** available to be distributed! These exclus
 
 Want to get involved? Start with our [Onboarding](onboarding.md) guide to set up your wallet and get familiar with the ecosystem, then dive into our [Exploring](hunting.md) section with the hunting guide to discover projects and increase your chances of earning a Fluffle NFT!
 
-For more detailed information about Fluffle NFTs and their benefits, visit our [Projects page](../../community/ecosystem/projects.md).
+For more detailed information about Fluffle NFTs and their benefits, visit our [Projects page](../../community/ecosystem/projects/).
