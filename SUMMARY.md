@@ -45,3 +45,4 @@
   * [Projects](community/ecosystem/projects/README.md)
     * [GTE](community/ecosystem/projects/gte.md)
     * [Valhalla](community/ecosystem/projects/valhalla.md)
+    * [CAP](community/ecosystem/projects/cap.md)
