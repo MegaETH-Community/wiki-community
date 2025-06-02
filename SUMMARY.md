@@ -48,3 +48,4 @@
     * [Euphoria](community/ecosystem/projects/euphoria.md)
     * [Valhalla](community/ecosystem/projects/valhalla.md)
     * [World Capital Markets](community/ecosystem/projects/world-capital-markets.md)
+    * [Showdown](community/ecosystem/projects/showdown.md)
