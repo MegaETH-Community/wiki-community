@@ -22,7 +22,7 @@ layout:
 
 **The Founders**
 
-* [Firewall Flirt](https://x.com/0xFirewallFlirt) – Former FinTech professional turned Web3 builder, bringing real-world user perspective
+* [Firewall Flirt](https://x.com/0xFirewallFlirt/status/1905275059121586531) – Former FinTech professional turned Web3 builder, bringing real-world user perspective
 * [byyou](https://x.com/0xbyyou) – Co-founder with deep technical expertise
 
 **The Mission: Make the Internet Borderless Again**
