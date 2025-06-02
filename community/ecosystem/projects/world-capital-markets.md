@@ -20,7 +20,7 @@ layout:
 
 ### Team & Vision
 
-The Founders
+**The Founders**
 
 [Pogo Bounce](https://x.com/PogoB/status/1882097629854572544) and [Kevin Kap](https://x.com/0xKevinKap) are building WCM as part of the MegaETH ecosystem, working alongside the MegaMafia to create real long-term value in DeFi. Initially called Teko, now rebranded as World Capital Markets.
 
