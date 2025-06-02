@@ -44,5 +44,6 @@
   * [Tools](community/ecosystem/tools.md)
   * [Projects](community/ecosystem/projects/README.md)
     * [GTE](community/ecosystem/projects/gte.md)
-    * [Valhalla](community/ecosystem/projects/valhalla.md)
     * [CAP](community/ecosystem/projects/cap.md)
+    * [Euphoria](community/ecosystem/projects/euphoria.md)
+    * [Valhalla](community/ecosystem/projects/valhalla.md)
