@@ -45,15 +45,22 @@ Showdown takes poker's foundation and adds TCG mechanics:
 * **7-10 minute matches** – Quick, mobile-friendly sessions
 * **1v1 heads-up format** – Pure skill-based competition
 * **2 private + 5 shared cards** – Classic poker structure
-* **Action cards modify hands** – Replace weak cards, duplicate strong ones
-* **First to 100 chips wins** – Dynamic scoring system
+* **Action cards modify outcomes** – Change pocket cards, steal chips, interact with opponents
+* **First to 100 chips wins** – Pot starts at 10 chips each hand
 
 **Key Mechanics**
 
-* **Check or Play** – Each turn, decide to progress or play action cards
-* **Double Down** – Instead of folding, double the pot for a final showdown
-* **Backfire Effects** – 50% chance mechanics add calculated risk
-* **Colored Card Phases** – Different strategies for different game stages
+* **Starting Hand** – Get 2 pocket cards + 2 action cards (4 on first hand)
+* **Action Card Management** – Keep up to 5 cards that carry over between hands
+* **Chip Value System** – Playing action cards adds their chip value to the pot
+* **Turn Structure** – Players alternate between playing action cards or checking
+
+**Game Flow**
+
+* **Preflop** → **Flop** (3 community cards) → **Fold Option** → **River** (2 more cards)
+* If both players continue after fold option, **pot doubles automatically**
+* **Color-coded timing** – Green cards (Preflop), Red (Flop), Blue (River), Grey (any stage)
+* **Showdown** – Best 5-card poker hand wins the pot
 
 _"Even if you start with a bad hand, you can play cards to improve it"_ – Unlike poker where you fold 90% of hands, Showdown ensures constant action and engagement.
 
