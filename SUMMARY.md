@@ -47,3 +47,4 @@
     * [CAP](community/ecosystem/projects/cap.md)
     * [Euphoria](community/ecosystem/projects/euphoria.md)
     * [Valhalla](community/ecosystem/projects/valhalla.md)
+    * [World Capital Markets](community/ecosystem/projects/world-capital-markets.md)
