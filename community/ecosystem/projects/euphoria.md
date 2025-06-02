@@ -22,7 +22,7 @@ layout:
 
 **The Origin Story**
 
-[Nathan Worsley](https://x.com/NathanWorsley_) (CEO), [Casey Craig](https://x.com/gmcaseycraig) (Co-founder & Head of Growth), and their CTO Johnny met at Devcon Bangkok during a philosophy panel where Nathan defended speculation as a learning tool for young traders – [a contrarian take that resonated with Casey](https://x.com/Euphoria_fi/status/1886911706896453830). They discovered shared interests in making derivatives accessible and started building Euphoria shortly after, bringing [DefiDougi](https://x.com/DefiDougi) (ex-Binance) as Head of Community.
+[Nathan Worsley](https://x.com/NathanWorsley_) (CEO), [Casey Craig](https://x.com/gmcaseycraig) (Co-founder & Head of Growth), and their CTO [Johnny](https://x.com/johnnygannon) met at Devcon Bangkok during a philosophy panel where Nathan defended speculation as a learning tool for young traders – [a contrarian take that resonated with Casey](https://x.com/Euphoria_fi/status/1886911706896453830). They discovered shared interests in making derivatives accessible and started building Euphoria shortly after, bringing [DefiDougi](https://x.com/DefiDougi) (ex-Binance) as Head of Community.
 
 **The Mission: "Feel Something"**
 
@@ -109,6 +109,7 @@ The team presents a thought-provoking thesis: In a post-AGI world where AI handl
 ### Resources & Further Reading
 
 * [Podcast](https://x.com/Euphoria_fi/status/1927756875744821714) | [Mafia Founders Series](https://x.com/0xMegaMafia/status/1928136729447252198) – Deep conversations with the team
+* [AMA #1 Recap](https://x.com/Euphoria_fi/status/1886911706896453830)
 * [Bullish Vision ](https://x.com/Euphoria_fi/status/1928512106409742836)
 
 ***
