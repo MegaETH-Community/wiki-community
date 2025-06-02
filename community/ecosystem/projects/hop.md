@@ -20,6 +20,11 @@ layout:
 
 ### Team & Vision
 
+**The Founders**
+
+* [Firewall Flirt](https://x.com/0xFirewallFlirt) – Former FinTech professional turned Web3 builder, bringing real-world user perspective
+* [byyou](https://x.com/0xbyyou) – Co-founder with deep technical expertise
+
 **The Mission: Make the Internet Borderless Again**
 
 _"Information wants to be free"_ – The internet promised no borders, but today 800 million people use VPNs to bypass censorship, geo-blocks, and restrictions. HOP rejects the fear-based narrative of traditional VPNs and instead celebrates exploration and freedom.
