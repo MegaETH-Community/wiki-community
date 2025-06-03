@@ -16,7 +16,7 @@ layout:
 
 GTE is building the world's fastest **decentralized trading platform** that covers the entire lifecycle of a token – from initial launch to sophisticated perpetuals trading – all on a single, high-performance platform powered by MegaETH's infrastructure.
 
-[Website](https://www.gte.xyz/) | [Official Documentation](https://docs.gte.xyz/) | [Twitter](https://x.com/GTE_XYZ) | [Discord](https://discord.com/invite/gte-xyz)
+[Website](https://www.gte.xyz/) | [Twitter](https://x.com/GTE_XYZ) | [Discord](https://discord.com/invite/gte-xyz) | [Documentation](https://docs.gte.xyz/)
 
 ### Vision & Platform Overview
 
