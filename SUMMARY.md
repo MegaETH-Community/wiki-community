@@ -51,3 +51,4 @@
     * [Valhalla](community/ecosystem/projects/valhalla.md)
     * [Showdown](community/ecosystem/projects/showdown.md)
     * [HOP](community/ecosystem/projects/hop.md)
+    * [Lemonade](community/ecosystem/projects/lemonade.md)
