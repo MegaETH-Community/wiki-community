@@ -16,7 +16,7 @@ layout:
 
 Nectar AI is a generative AI launchpad that enables users to create and fully customize AI-driven companions for immersive roleplay experiences. By transforming onchain agents from purely utility-focused tools into emotionally intelligent partners, Nectar establishes a foundation for an interactive, on-chain agent economy.
 
-[Website](https://nectar.ai/) | [Discord](https://discord.com/invite/ZFfEAbgsHm)
+[Website](https://nectar.ai/) | [Twitter](https://x.com/TryNectarAI) | [Discord](https://discord.com/invite/ZFfEAbgsHm)
 
 **Core Features:**
 

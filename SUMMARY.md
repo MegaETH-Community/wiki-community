@@ -53,6 +53,7 @@
     * [World Capital Markets](community/ecosystem/projects/world-capital-markets.md)
     * [Valhalla](community/ecosystem/projects/valhalla.md)
     * [Showdown](community/ecosystem/projects/showdown.md)
+    * [Sweep](community/ecosystem/projects/sweep.md)
     * [Lemonade](community/ecosystem/projects/lemonade.md)
     * [Pump Party](community/ecosystem/projects/pump-party.md)
     * [AWE](community/ecosystem/projects/awe.md)
