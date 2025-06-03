@@ -53,3 +53,4 @@
     * [Showdown](community/ecosystem/projects/showdown.md)
     * [Lemonade](community/ecosystem/projects/lemonade.md)
     * [Pump Party](community/ecosystem/projects/pump-party.md)
+    * [AWE](community/ecosystem/projects/awe.md)
