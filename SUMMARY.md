@@ -54,6 +54,7 @@
     * [Valhalla](community/ecosystem/projects/valhalla.md)
     * [Showdown](community/ecosystem/projects/showdown.md)
     * [Sweep](community/ecosystem/projects/sweep.md)
+    * [Funes](community/ecosystem/projects/funes.md)
     * [Lemonade](community/ecosystem/projects/lemonade.md)
     * [Pump Party](community/ecosystem/projects/pump-party.md)
     * [AWE](community/ecosystem/projects/awe.md)
