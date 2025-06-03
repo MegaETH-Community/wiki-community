@@ -48,6 +48,7 @@
     * [Euphoria](community/ecosystem/projects/euphoria.md)
     * [HOP](community/ecosystem/projects/hop.md)
     * [Noise](community/ecosystem/projects/noise.md)
+    * [Avon](community/ecosystem/projects/avon.md)
     * [World Capital Markets](community/ecosystem/projects/world-capital-markets.md)
     * [Valhalla](community/ecosystem/projects/valhalla.md)
     * [Showdown](community/ecosystem/projects/showdown.md)
