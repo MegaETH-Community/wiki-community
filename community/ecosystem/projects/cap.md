@@ -54,7 +54,7 @@ As a founding member of the [MegaMafia](https://x.com/0xMegaMafia), CAP will ser
 
 ### How CAP Works
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://mirror.xyz/0x83c21bb4Bf0EC116f5a1945AaeF847Fe3b321B32/-Fw6wiyvnSV5aOYeKhaADvEqXdwngJfWMfZJuFv6iA4">What is CAP: A Gentle Introduction to cUSD</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://mirror.xyz/0x83c21bb4Bf0EC116f5a1945AaeF847Fe3b321B32/-Fw6wiyvnSV5aOYeKhaADvEqXdwngJfWMfZJuFv6iA4">What is CAP: A Gentle Introduction to cUSD</a></p></figcaption></figure>
 
 CAP creates a **three-sided marketplace** that aligns incentives across all participants:
 

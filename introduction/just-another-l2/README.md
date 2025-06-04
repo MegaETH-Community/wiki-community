@@ -70,7 +70,7 @@ This fragmentation led to specialized solutions like **keystore rollups**—dedi
 * **Real-time responsiveness** enabling entirely new application categories
 * **Unified architecture** avoiding the fragmentation plaguing current L2s
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Three critical thresholds define user experience:**
 
