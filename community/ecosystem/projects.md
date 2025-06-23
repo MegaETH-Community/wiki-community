@@ -17,15 +17,15 @@ layout:
 
 This page brings together all **MegaETH** ecosystem projects, from community efforts to official programs. For the best way to explore MegaETH projects, head to [**Fluffle Tools**](https://www.fluffle.tools/), created by [@0x\_ultra](https://x.com/0x_ultra/status/1895105354674909442).
 
+### MegaMafia Projects
+
+The [MegaMafia](https://www.megaeth.com/builder) program features projects from the 10x Builders Program. [See all MegaMafia projects](broken-reference) organized by category. Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for updates.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>MegaMafia 1.0</p></figcaption></figure>
+
 ### MegaForge
 
 No projects have been released yet.
-
-### MegaMafia Projects
-
-The **MegaMafia** program, accessible through the [MegaMafia page](https://www.megaeth.com/builder), features projects developed as part of the 10x Builders Program. Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for updates.
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>MegaMafia 1.0</p></figcaption></figure>
 
 ### Independent Projects
 
@@ -61,7 +61,7 @@ This section highlights projects building on or planning to integrate with MegaE
 
 * **Bad Bunnz** ([@badbunnz\_](https://x.com/badbunnz_)): Leading collection with strong community engagement - testnet holders get guaranteed mint access
 * **MegaRabbit** ([@MegaRabbitNFT](https://x.com/MegaRabbitNFT)): Currently collecting whitelist addresses for upcoming mint
-* [Explore the full NFT ecosystem](https://x.com/themagic_trader/status/1919499081770029075) with dozens of collections launching on MegaETH
+* [Explore the full NFT ecosystem](https://www.fluffle.tools/#ecosystem) with dozens of collections launching on MegaETH
 
 ***
 
