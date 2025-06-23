@@ -71,5 +71,6 @@ Participants work directly with the MegaETH core team, MegaMafia alumni, and adv
 
 **Resources & Bibliography**
 
+* [MegaMafia](https://www.megaeth.com/builder)
 * [MegaForge Announcement](https://x.com/megaeth_labs/status/1882829039603470371)
 * **MegaMafia Updates**: Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for the latest program news and announcements

@@ -19,13 +19,71 @@ This page brings together all **MegaETH** ecosystem projects, from community eff
 
 ### MegaMafia Projects
 
-The [MegaMafia](https://www.megaeth.com/builder) program features projects from the 10x Builders Program. [See all MegaMafia projects](broken-reference) organized by category. Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for updates.
+The [MegaMafia](../../guide/builder-guide/programs.md) program features projects from the 10x Builders Program. [See all MegaMafia projects](broken-reference) organized by category. Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for updates.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>MegaMafia 1.0</p></figcaption></figure>
 
 ### MegaForge
 
-No projects have been released yet.
+Supporting innovative builders with technical expertise and ecosystem resources. [Discover the MegaForge program](../../guide/builder-guide/programs.md).
+
+| Category | Project                                                                                                                                                                                    | Live        | Omega |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ----- |
+| AI       | 3700                                                                                                                                                                                       | Coming Soon |       |
+|          | AikaVerse                                                                                                                                                                                  | Coming Soon |       |
+|          | [RainMakr](https://rainmakr.xyz/en)                                                                                                                                                        | Live        | ✓     |
+|          | ZyFAI                                                                                                                                                                                      | Coming Soon |       |
+| Consumer | [Chainbills](https://chainbills.xyz/)                                                                                                                                                      | Live        | ✓     |
+|          | [Guess.Best](https://app.guess.best/airdrop)                                                                                                                                               | Live        |       |
+|          | [Hashpin ǂ](https://hashpin.org/)                                                                                                                                                          | Live        |       |
+|          | [Kingdomly](https://www.kingdomly.app/)                                                                                                                                                    | Live        |       |
+|          | Pebbles                                                                                                                                                                                    | Coming Soon | ✓     |
+|          | Poster.fun                                                                                                                                                                                 | Coming Soon |       |
+|          | [Rarible](https://rarible.fun/)                                                                                                                                                            | Live        |       |
+|          | [Sirio](https://www.sirio.gg/mining)                                                                                                                                                       | Live        |       |
+|          | [XL](https://xlmeme.com/)                                                                                                                                                                  | Live        |       |
+|          | Zapper                                                                                                                                                                                     | Coming Soon |       |
+| DeFi     | Ajna                                                                                                                                                                                       | Coming Soon |       |
+|          | [Bebop](https://bebop.xyz/trade?network=megaeth)                                                                                                                                           | Live        |       |
+|          | [Bronto](https://bronto.finance/)                                                                                                                                                          | Live        |       |
+|          | Caddy Finance                                                                                                                                                                              | Coming Soon |       |
+|          | Covenant                                                                                                                                                                                   | Coming Soon |       |
+|          | [Curve.fi](https://www.curve.finance/dex/megaeth/pools/)                                                                                                                                   | Live        |       |
+|          | Cyclo                                                                                                                                                                                      | Coming Soon |       |
+|          | DLE                                                                                                                                                                                        | Coming Soon |       |
+|          | [Fufuture](https://www.fufuture.io/)                                                                                                                                                       | Live        |       |
+|          | [Gasp](https://www.gasp.xyz/)                                                                                                                                                              | Live        |       |
+|          | [Gasyard](https://app.gasyard.fi/?env=testnet)                                                                                                                                             | Live        |       |
+|          | [Gearbox](https://gearbox.fi/)                                                                                                                                                             | Live        |       |
+|          | [Mach Exchange](https://app.mach.exchange/swap?sellChain=42161\&buyChain=43114\&sellToken=0xaf88d065e77c8cC2239327C5EDb3A432268e5831\&buyToken=0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7) | Live        |       |
+|          | Magpie                                                                                                                                                                                     | Coming Soon |       |
+|          | Megaton                                                                                                                                                                                    | Coming Soon | ✓     |
+|          | not.token                                                                                                                                                                                  | Coming Soon |       |
+|          | Nunchi.trade                                                                                                                                                                               | Coming Soon |       |
+|          | Pike finance                                                                                                                                                                               | Coming Soon |       |
+|          | Raindex                                                                                                                                                                                    | Coming Soon |       |
+| Infra    | [Adam Nickels](https://delegate.xyz/)                                                                                                                                                      | Live        |       |
+|          | Blocksense                                                                                                                                                                                 | Coming Soon |       |
+|          | Canary Protocol                                                                                                                                                                            | Coming Soon | ✓     |
+|          | Clique                                                                                                                                                                                     | Coming Soon |       |
+|          | [Dynamic](https://www.dynamic.xyz/)                                                                                                                                                        | Live        |       |
+|          | [Envio](https://envio.dev/)                                                                                                                                                                | Live        |       |
+|          | Etherspot                                                                                                                                                                                  | Coming Soon |       |
+|          | [Gelato](https://www.gelato.cloud/)                                                                                                                                                        | Live        |       |
+|          | [Hyperlane](https://hyperlane.xyz/)                                                                                                                                                        | Live        |       |
+|          | Mellow                                                                                                                                                                                     | Coming Soon |       |
+|          | [Orbiter Finance](https://www.orbiter.finance/bridge/Optimism/Arbitrum?token=ETH)                                                                                                          | Live        |       |
+|          | [Pimlico](https://www.pimlico.io/)                                                                                                                                                         | Live        |       |
+|          | [Privy](https://www.privy.io/)                                                                                                                                                             | Live        |       |
+|          | [Redstone Oracles](https://www.redstone.finance/)                                                                                                                                          | Live        |       |
+|          | Reown                                                                                                                                                                                      | Coming Soon |       |
+|          | [Thirdweb](https://thirdweb.com/)                                                                                                                                                          | Live        |       |
+|          | Wysdom                                                                                                                                                                                     | Coming Soon |       |
+|          | [ZeroDev](https://zerodev.app/)                                                                                                                                                            | Live        |       |
+| Gaming   | Games.fun                                                                                                                                                                                  | Coming Soon |       |
+|          | Mai                                                                                                                                                                                        | Coming Soon | ✓     |
+
+_For the most up-to-date list, visit the_ [_official MegaForge directory_](https://testnet.megaeth.com/#5)_._
 
 ### Independent Projects
 
@@ -37,7 +95,6 @@ This section highlights projects building on or planning to integrate with MegaE
 * **MegaBot** ([@Mega\_BotETH](https://x.com/Mega_BotETH)): High-frequency trading and sniping bot with rug protection.
 * **MegaDEX** ([@megadex\_labs](https://x.com/megadex_labs)): V3 concentrated liquidity AMM.&#x20;
 * **PredictFi** ([@PredictFi](https://x.com/PredictFi)): Prediction market for politics, crypto, sports, and more.
-* **RainMakr** ([@RainMakr\_xyz](https://x.com/RainMakr_xyz)): All-in-one launchpad for AI agents, memecoins, and major projects.
 * **Ren** ([@renprotocol](https://x.com/renprotocol)): Interoperability protocol enabling Bitcoin in DeFi.
 * **StakeStone** ([@Stake\_Stone](https://x.com/Stake_Stone)): Omnichain liquidity and adaptive staking for ETH/BTC.
 * **StackUp** ([@usestackup](https://x.com/usestackup)): Yield aggregator optimizing returns in MegaETH DeFi.
@@ -67,7 +124,6 @@ This section highlights projects building on or planning to integrate with MegaE
 
 ### Additional Resources
 
-* [Official List](https://testnet.megaeth.com/#5)
 * Community MegaETH project lists:
   * [Jaehaerys notion page](https://jaehaerys.notion.site/1472bc05039d80689007fbe156de7385?v=4b5dc87108724bb6875d24836fb1e1e6)
   * [Projects categorize](https://x.com/megaethra/status/1902216544890888336)

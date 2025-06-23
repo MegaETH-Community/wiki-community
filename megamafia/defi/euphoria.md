@@ -18,6 +18,8 @@ layout:
 
 [Website](https://euphoria.finance/) | [Twitter](https://x.com/Euphoria_fi) | [Telegram](https://t.me/euphoria_fi) | [Discord](https://discord.gg/euphoriafi)
 
+[Demo1](https://x.com/_mackinac/status/1930298499574223138) | [Demo2](https://x.com/Dogetoshi/status/1935498081547501844)
+
 ### Team & Vision
 
 **The Origin Story**
