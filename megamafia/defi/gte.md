@@ -45,8 +45,9 @@ Co-founders [Matteo](https://x.com/mlunghi2000) and [Enzo](https://x.com/enzo_gt
 
 * **$2.5M Echo raise** – Community round with 720+ investors, sold out in 1 hour
 * **$8.4M institutional funding** – Pre-seed ($1.5M) and seed ($6.942M) from Maven 11, Wintermute, Flow Traders, Robot Ventures, IMC Trading, and notable angels including Guy Young (Ethena) and traders from Jump Trading
+* **$15M Series A** – From Paradigm to scale the Global Token Exchange
 
-The dual approach mirrors MegaETH's own raise, prioritizing both grassroots support and institutional backing to align all stakeholders. [Source](https://docs.gte.xyz/home/overview/team)
+The dual approach mirrors MegaETH's own raise, prioritizing both grassroots support and institutional backing to align all stakeholders. [Source](https://cryptorank.io/ico/gte)
 
 ### Why MegaETH Powers GTE
 

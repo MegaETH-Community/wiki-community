@@ -1,4 +1,5 @@
 ---
+icon: headset
 layout:
   title:
     visible: true

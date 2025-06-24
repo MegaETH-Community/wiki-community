@@ -1,4 +1,5 @@
 ---
+icon: people-arrows
 layout:
   title:
     visible: true

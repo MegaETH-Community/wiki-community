@@ -1,4 +1,5 @@
 ---
+icon: arrow-trend-up
 layout:
   title:
     visible: true
@@ -14,3 +15,4 @@ layout:
 
 # DeFi
 
+<figure><img src="../../.gitbook/assets/GTE_v2.PNG" alt=""><figcaption></figcaption></figure>
