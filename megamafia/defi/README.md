@@ -15,4 +15,6 @@ layout:
 
 # DeFi
 
-<figure><img src="../../.gitbook/assets/GTE_v2.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GTE_v2.PNG" alt=""><figcaption><p><a href="gte.md">GTE</a></p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/valhalla_v1.PNG" alt=""><figcaption><p><a href="valhalla.md">Valhalla</a></p></figcaption></figure>
