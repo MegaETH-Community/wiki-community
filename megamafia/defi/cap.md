@@ -32,11 +32,10 @@ CAP introduces a paradigm shift in stablecoins – moving from centralized "hedg
 
 As [Ultra notes](https://x.com/0x_ultra/status/1909260677740703813): "CAP is building the natural evolution for stables, where every aspect is decentralized – even the yield generation (both on and off chain)."
 
-**Team & Backing:** CAP combines **institutional finance expertise** with deep crypto-native understanding, backed by:
+**Team & Backing:** CAP combines **institutional finance expertise** with deep crypto-native understanding, [backed by](https://cryptorank.io/ico/cap):
 
 * **$1.1M community round** via Echo (Omega, Patrons, Crab Notes, Price Club)
-* **Seed round** with participation from MegaMafia founders
-* Focus on aligned, long-term stakeholders over traditional VC model
+* **1.9M Pre-Seed and $8.0M Seed round** with participation from MegaMafia founders
 
 Led by [Benjamin](https://x.com/Benjamin918_) (founder) and [DeFiDave](https://x.com/DeFiDave22) (Head of Growth), the team maintains active presence across [Community Forum](https://capcommunity.discourse.group/) for discussions and collaborates regularly with MegaETH core team and Vitalik as advisor.
 
