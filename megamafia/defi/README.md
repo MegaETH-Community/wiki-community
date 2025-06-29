@@ -19,4 +19,6 @@ layout:
 
 <figure><img src="../../.gitbook/assets/temp.PNG" alt=""><figcaption><p><a href="world-capital-markets.md">World Capital Markets</a></p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/cap_v1.PNG" alt=""><figcaption><p><a href="cap.md">CAP</a></p></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/valhalla_v1.PNG" alt=""><figcaption><p><a href="valhalla.md">Valhalla</a></p></figcaption></figure>

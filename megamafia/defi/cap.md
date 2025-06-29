@@ -16,7 +16,7 @@ layout:
 
 CAP is building the first **stablecoin protocol that outsources yield generation** in a programmatically secure manner, combining verifiable smart contracts with economically enforced guarantees through shared security networks.
 
-[Official Website](https://cap.app/) | [Documentation](https://docs.cap.app/) | [Twitter](https://x.com/capmoney_) | [Discord](https://discord.com/invite/JEWtg6TC8J) | [Telegram](https://t.me/stablecoinmafia)
+[Website](https://cap.app/) | [Documentation](https://docs.cap.app/) | [Twitter](https://x.com/capmoney_) | [Discord](https://discord.com/invite/JEWtg6TC8J) | [Telegram](https://t.me/stablecoinmafia)
 
 ### Vision & Team
 
@@ -54,7 +54,7 @@ As a founding member of the [MegaMafia](https://x.com/0xMegaMafia), CAP will ser
 
 ### How CAP Works
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://mirror.xyz/0x83c21bb4Bf0EC116f5a1945AaeF847Fe3b321B32/-Fw6wiyvnSV5aOYeKhaADvEqXdwngJfWMfZJuFv6iA4">What is CAP: A Gentle Introduction to cUSD</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://mirror.xyz/0x83c21bb4Bf0EC116f5a1945AaeF847Fe3b321B32/-Fw6wiyvnSV5aOYeKhaADvEqXdwngJfWMfZJuFv6iA4">What is CAP: A Gentle Introduction to cUSD</a></p></figcaption></figure>
 
 CAP creates a **three-sided marketplace** that aligns incentives across all participants:
 
@@ -90,7 +90,7 @@ CAP creates a **three-sided marketplace** that aligns incentives across all part
 
 #### **Type III Stablecoin Architecture**
 
-CAP represents the evolution beyond existing models:
+CAP represents the evolution beyond [existing models](https://x.com/capmoney_/status/1929919466818637987):
 
 * **Type 0** – Endogenous yield (CDPs, leverage-based)
 * **Type I** – Team-run strategies (Celsius-style)
