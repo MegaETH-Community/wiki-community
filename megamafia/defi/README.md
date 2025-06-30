@@ -26,3 +26,5 @@ layout:
 <figure><img src="../../.gitbook/assets/avon_v1.PNG" alt=""><figcaption><p><a href="avon.md">Avon</a></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/noise_v1.PNG" alt=""><figcaption><p><a href="noise.md">Noise</a></p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/euphoria_v1.PNG" alt=""><figcaption><p><a href="euphoria.md">Euphoria</a></p></figcaption></figure>
