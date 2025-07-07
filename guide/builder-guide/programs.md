@@ -1,16 +1,5 @@
 ---
 icon: hands-holding-child
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Programs
@@ -71,6 +60,8 @@ Participants work directly with the MegaETH core team, MegaMafia alumni, and adv
 
 **Resources & Bibliography**
 
-* [MegaMafia](https://www.megaeth.com/builder)
-* [MegaForge Announcement](https://x.com/megaeth_labs/status/1882829039603470371)
-* **MegaMafia Updates**: Follow [@0xMegaMafia](https://x.com/0xMegaMafia) for the latest program news and announcements
+* **MegaMafia**:&#x20;
+  * **2.0**: Closed with 300+ team submissions ([Announcement](https://x.com/megaeth_labs/status/1930246537558536411))
+  * **Updates**: Follow [@0xMegaMafia](https://x.com/0xMegaMafia)
+  * [Website](https://www.megaeth.com/builder)
+* MegaForge: [Announcement](https://x.com/megaeth_labs/status/1882829039603470371)
