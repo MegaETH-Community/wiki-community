@@ -1,20 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # CAP
 
-CAP is building the first **stablecoin protocol that outsources yield generation** in a programmatically secure manner, combining verifiable smart contracts with economically enforced guarantees through shared security networks.
+[CAP](https://x.com/MacroMate8/status/1958625089668386992) is building the first **stablecoin protocol that outsources yield generation** in a programmatically secure manner, combining verifiable smart contracts with economically enforced guarantees through shared security networks.
 
 [Website](https://cap.app/) | [Documentation](https://docs.cap.app/) | [Twitter](https://x.com/capmoney_) | [Discord](https://discord.com/invite/JEWtg6TC8J) | [Telegram](https://t.me/stablecoinmafia)
 
@@ -65,7 +51,7 @@ CAP creates a **three-sided marketplace** that aligns incentives across all part
 
 **2. Operators (Yield Generators)**
 
-* **Whitelisted institutions** – banks, HFT firms, market makers, RWA protocols
+* **Whitelisted institutions** – banks, HFT firms, market makers, RWA protocols | [Day1 Whitelisted](https://x.com/capmoney_/status/1955993761999413732)
 * Borrow protocol assets to execute yield strategies
 * Keep profits above CAP's benchmark yield (e.g., if benchmark is 13% and they earn 40%, they keep 27%)
 * Must secure delegations from restakers to access capital
@@ -174,12 +160,14 @@ If operator defaults or collateral value drops:
 
 ### Resources & Further Reading
 
-* [Knowledge Base](https://cap.app/knowledge-base) – Comprehensive articles on CAP's design
-* [Type III Stablecoins](https://x.com/megaeth_labs/status/1925215311973990447) – Deep dive into CAP's architecture
-* [Community Forum](https://capcommunity.discourse.group/) – Join the discussion
-* [GitHub](https://github.com/cap-labs-dev) – Audits
+* [Community Forum](https://capcommunity.discourse.group/) – Join the discussion | [GitHub](https://github.com/cap-labs-dev) – Audits
+* [Knowledge Base](https://cap.app/knowledge-base) – Comprehensive articles on CAP's design | [Type III Stablecoins](https://x.com/megaeth_labs/status/1925215311973990447) – Deep dive into CAP's architecture
+* [Podcast1](https://x.com/DeFi_Dad/status/1908588959950582161) | [Podcast2](https://x.com/OdysseyBiS/status/1958654470512156778) | [Mafia Founders Series](https://x.com/0xMegaMafia/status/1925576975089115477) – Deep conversations with the team
+* [Frontier program](https://x.com/capmoney_/status/1954918969418436805) - Earn Caps (Points) | [Community Cap Leaderboard](https://x.com/CryptoNdee/status/1958601687247331531)
 * [Roadmap](https://mirror.xyz/0x83c21bb4Bf0EC116f5a1945AaeF847Fe3b321B32/T8qtKUypnNjYIvhOTX7tm-qLn2AXx1zhMt4VWGGHgus) – Future development plans
-* [Podcast](https://x.com/DeFi_Dad/status/1908588959950582161) | [Mafia Founders Series](https://x.com/0xMegaMafia/status/1925576975089115477) – Deep conversations with the team
+  * [16 Jul](https://x.com/capmoney_/status/1945506680579743779) - Cap Stablecoin Network (CSN) with PayPal
+  * [18 Aug](https://x.com/capmoney_/status/1957447582067859783) - Mainnet
+  * [20 Aug](https://x.com/capmoney_/status/1958191565366784020) - Pendle listing
 
 ***
 
