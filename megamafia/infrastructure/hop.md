@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # HOP
 
 **HOP transforms internet access into a borderless experience.** Instead of hiding behind VPNs, step through portals to anywhere online – instantly, anonymously, and without restrictions. A decentralized network that grows stronger with every block.

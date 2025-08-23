@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Avon
 
 Avon brings true price discovery to onchain lending through the first Central Limit Order Book (CLOB) for DeFi credit markets. By enabling **lenders** and **borrowers** to set their own terms through open competition, Avon transforms lending from protocol-dictated rates to market-driven pricing.

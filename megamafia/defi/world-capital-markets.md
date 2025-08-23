@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # World Capital Markets
 
 **WCM unifies spot, perps, and lending into a single cross-margined exchange.** The first fully onchain platform where you can execute the most obvious DeFi trade – leveraged basis arbitrage – with just $10 starting capital.

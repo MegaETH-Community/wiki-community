@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # GTE
 
 GTE is building the world's fastest **decentralized trading platform** that covers the entire lifecycle of a token – from initial launch to sophisticated perpetuals trading – all on a single, high-performance platform powered by MegaETH's infrastructure.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # NectarAI
 
 Nectar AI is a generative AI launchpad that enables users to create and fully customize AI-driven companions for immersive roleplay experiences. By transforming onchain agents from purely utility-focused tools into emotionally intelligent partners, Nectar establishes a foundation for an interactive, on-chain agent economy.

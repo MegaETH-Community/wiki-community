@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Lemonade
 
 Lemonade is a comprehensive platform on MegaETH that empowers creators, event organizers, and small businesses to build thriving on-chain communities. Through its vertically integrated protocol-platform-product stack, Lemonade transforms how communities organize, engage, and monetize their activities on-chain.

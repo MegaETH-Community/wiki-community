@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Euphoria
 
 **Euphoria transforms crypto derivatives trading into a mobile game-like experience.** One tap to predict price movements. No charts, no order books, no stress – just pure intuition expressed through simple finger gestures.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Sweep
 
 Sweep is a **platform to win money by making predictions on your favorite streamers' games**. It merges live entertainment with prediction markets, enabling user-generated betting on gaming performances, sports events, and award shows.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Funes
 
 Funes is **an online museum** that creates a vast, free, and accessible 3D database of human constructions. Like Wikipedia has compiled entries of human knowledge, Funes collects high-quality models of buildings through crowd-sourced photogrammetry.

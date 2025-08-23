@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Valhalla
 
 **Valhalla** is building the first fully **on-chain and composable trading platform** on MegaETH, combining perps, spot trading, and lending in a single platform. Their mission: "Trade to own" - creating a community-driven exchange where users become genuine stakeholders.

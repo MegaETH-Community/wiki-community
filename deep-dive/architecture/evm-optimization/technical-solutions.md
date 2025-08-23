@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Technical Solutions
 
 This page provides in-depth technical details about MegaETH's innovative solutions to blockchain scalability challenges.

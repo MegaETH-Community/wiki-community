@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # AWE
 
 AWE (Autonomous World Engine) is a no-code 3D game and simulation builder on MegaETH. Originally launched as [OnCyber](https://x.com/oncyber), an NFT 3D exhibition platform, AWE has evolved into a fully functional web-based game engine that makes 3D game creation accessible to everyone.

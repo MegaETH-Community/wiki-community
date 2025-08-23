@@ -1,19 +1,8 @@
 ---
 icon: book
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Legend
+# Glossary
 
 #### **Consensus (Sequencing)**
 

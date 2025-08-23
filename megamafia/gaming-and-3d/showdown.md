@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Showdown
 
 **Showdown reinvents high-stakes card gaming by merging poker's betting mechanics with the strategic depth of TCGs (Trading Card Game).** Created by world-ranked champions from Magic: The Gathering and Hearthstone, it's designed to bring back the golden era of competitive poker—but with action cards that flip the game on its head.

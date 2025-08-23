@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Noise
 
 **Noise transforms attention into a tradable asset.** Instead of speculating on token prices, users long or short mindshare—betting directly on what people are talking about. A platform that makes trading trends as simple as scrolling your feed.

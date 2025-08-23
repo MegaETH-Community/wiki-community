@@ -1,16 +1,5 @@
 ---
 icon: fire-flame-simple
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # State Sync & Gas Limits
