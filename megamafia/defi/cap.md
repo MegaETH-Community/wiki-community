@@ -163,7 +163,7 @@ If operator defaults or collateral value drops:
 * [Community Forum](https://capcommunity.discourse.group/) – Join the discussion | [GitHub](https://github.com/cap-labs-dev) – Audits
 * [Knowledge Base](https://cap.app/knowledge-base) – Comprehensive articles on CAP's design | [Type III Stablecoins](https://x.com/megaeth_labs/status/1925215311973990447) – Deep dive into CAP's architecture
 * [Podcast1](https://x.com/DeFi_Dad/status/1908588959950582161) | [Podcast2](https://x.com/OdysseyBiS/status/1958654470512156778) | [Mafia Founders Series](https://x.com/0xMegaMafia/status/1925576975089115477) – Deep conversations with the team
-* [Frontier program](https://x.com/capmoney_/status/1954918969418436805) - Earn Caps (Points) | [Community Cap Leaderboard](https://x.com/CryptoNdee/status/1958601687247331531)
+* [Frontier program](https://x.com/capmoney_/status/1954918969418436805) - Earn Caps (Points) | [Community Cap Leaderboard](https://x.com/CryptoNdee/status/1958601687247331531) | [Cap Calculator](https://x.com/Moonshot211/status/1970861870946111923)
 * [Roadmap](https://mirror.xyz/0x83c21bb4Bf0EC116f5a1945AaeF847Fe3b321B32/T8qtKUypnNjYIvhOTX7tm-qLn2AXx1zhMt4VWGGHgus) – Future development plans
   * [16 Jul](https://x.com/capmoney_/status/1945506680579743779) - Cap Stablecoin Network (CSN) with PayPal
   * [18 Aug](https://x.com/capmoney_/status/1957447582067859783) - Mainnet
