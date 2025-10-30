@@ -15,6 +15,32 @@
 * [MegaLabs](introduction/megalabs.md)
 * [Roadmap](introduction/roadmap.md)
 
+## Ecosystem
+
+* [Mega Civilization](ecosystem/mega-civilization.md)
+* [🐰 MegaMafia](ecosystem/megamafia/README.md)
+  * [DeFi](ecosystem/megamafia/defi/README.md)
+    * [GTE](ecosystem/megamafia/defi/gte.md)
+    * [Euphoria](ecosystem/megamafia/defi/euphoria.md)
+    * [Noise](ecosystem/megamafia/defi/noise.md)
+    * [Valhalla](ecosystem/megamafia/defi/valhalla.md)
+    * [CAP](ecosystem/megamafia/defi/cap.md)
+    * [Avon](ecosystem/megamafia/defi/avon.md)
+    * [World Capital Markets](ecosystem/megamafia/defi/world-capital-markets.md)
+  * [Gaming & 3D](ecosystem/megamafia/gaming-and-3d/README.md)
+    * [Showdown](ecosystem/megamafia/gaming-and-3d/showdown.md)
+    * [Pump Party](ecosystem/megamafia/gaming-and-3d/pump-party.md)
+    * [Sweep](ecosystem/megamafia/gaming-and-3d/sweep.md)
+    * [AWE](ecosystem/megamafia/gaming-and-3d/awe.md)
+    * [Funes](ecosystem/megamafia/gaming-and-3d/funes.md)
+  * [Infrastructure](ecosystem/megamafia/infrastructure/README.md)
+    * [HOP](ecosystem/megamafia/infrastructure/hop.md)
+  * [Social](ecosystem/megamafia/social/README.md)
+    * [NectarAI](ecosystem/megamafia/social/nectarai.md)
+    * [Lemonade](ecosystem/megamafia/social/lemonade.md)
+* [Projects](ecosystem/projects/README.md)
+  * [Tools](ecosystem/projects/tools.md)
+
 ## Deep Dive
 
 * [Architecture](deep-dive/architecture/README.md)
@@ -36,32 +62,3 @@
 * [Builder Guide](guide/builder-guide/README.md)
   * [Programs](guide/builder-guide/programs.md)
   * [Build](guide/builder-guide/build.md)
-
-## Community
-
-* [Mega Civilization](community/mega-civilization.md)
-* [Ecosystem](community/ecosystem/README.md)
-  * [Tools](community/ecosystem/tools.md)
-  * [Projects](community/ecosystem/projects.md)
-
-## MegaMafia
-
-* [DeFi](megamafia/defi/README.md)
-  * [GTE](megamafia/defi/gte.md)
-  * [Euphoria](megamafia/defi/euphoria.md)
-  * [Noise](megamafia/defi/noise.md)
-  * [Valhalla](megamafia/defi/valhalla.md)
-  * [CAP](megamafia/defi/cap.md)
-  * [Avon](megamafia/defi/avon.md)
-  * [World Capital Markets](megamafia/defi/world-capital-markets.md)
-* [Gaming & 3D](megamafia/gaming-and-3d/README.md)
-  * [Showdown](megamafia/gaming-and-3d/showdown.md)
-  * [Pump Party](megamafia/gaming-and-3d/pump-party.md)
-  * [Sweep](megamafia/gaming-and-3d/sweep.md)
-  * [AWE](megamafia/gaming-and-3d/awe.md)
-  * [Funes](megamafia/gaming-and-3d/funes.md)
-* [Infrastructure](megamafia/infrastructure/README.md)
-  * [HOP](megamafia/infrastructure/hop.md)
-* [Social](megamafia/social/README.md)
-  * [NectarAI](megamafia/social/nectarai.md)
-  * [Lemonade](megamafia/social/lemonade.md)

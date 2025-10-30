@@ -42,6 +42,6 @@ The official docs are your go-to for understanding how MegatETH works and how to
 #### **Resources**
 
 * [Official Public Faucet](https://testnet.megaeth.com/#3)
-* [Tools](../../community/ecosystem/tools.md)
+* [Tools](../../ecosystem/projects/tools.md)
 * [Fluffle builders Hub](https://x.com/0x_ultra/status/1902711217762050295)
 

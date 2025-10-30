@@ -4,7 +4,7 @@ icon: people-group
 
 # MegaLabs
 
-<figure><img src="../.gitbook/assets/Team_structure_v1 (1).PNG" alt=""><figcaption><p><a href="../community/mega-civilization.md">Mega Civilization</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Team_structure_v1 (1).PNG" alt=""><figcaption><p><a href="../ecosystem/mega-civilization.md">Mega Civilization</a></p></figcaption></figure>
 
 **Mega Labs** represents a collective of specialists dedicated to optimizing blockchain performance and advancing the **World Computer** concept. Their mission focuses on designing a cutting-edge execution layer that separates execution from consensus, leveraging Ethereum as a settlement layer. By utilizing hyper-specialized node architecture, Mega Labs pushes the limits of performance, constrained only by the capabilities of hardware.
 
