@@ -17,7 +17,6 @@
 
 ## Ecosystem
 
-* [Mega Civilization](ecosystem/mega-civilization.md)
 * [🐰 MegaMafia](ecosystem/megamafia/README.md)
   * [DeFi](ecosystem/megamafia/defi/README.md)
     * [GTE](ecosystem/megamafia/defi/gte.md)
@@ -54,6 +53,7 @@
     * [Kumbaya](ecosystem/megamafia/social/kumbaya.md)
 * [Projects](ecosystem/projects/README.md)
   * [Tools](ecosystem/projects/tools.md)
+* [Mega Civilization](ecosystem/mega-civilization.md)
 
 ## Deep Dive
 
