@@ -34,35 +34,26 @@ MegaETH's flagship accelerator bringing exceptional builders together to create 
 
 **Program Evolution**
 
-**MegaMafia 1.0** - Proven foundation that supercharged existing primitives by leveraging MegaETH's increased bandwidth, reduced latency, and larger contract sizes
-
-* **$40M+ raised** by participating teams, surpassing MegaETH's own funding
-* Notable projects: Noise, GTE, CapMoney, Euphoria - ecosystem leaders backed by Franklin Templeton, Robot Ventures, Maven 11, Figment Capital
-* OG Mafia pioneers shaped the early vision and demonstrated that focused application development drives real ecosystem value
-
-**MegaMafia 2.0** - Launched [April 24th](https://x.com/0xMegaMafia/status/1915073541705179305) with broader scope and deeper creativity
-
-* Challenge builders to imagine **product spaces outside conventional thinking**
-* Focus on apps that **formalize existing loops instead of manufacturing new demand**
-* Take fragmented day-to-day behaviors and distill them into coherent flows that unlock new connections
-
-**Philosophy**
-
-* Inspired by **A24's creative approach** - curated by taste and authenticity, not categories
-* Applications over infrastructure - the space is oversaturated with infra while few focus on what truly matters
-* You know it's Mafia-built because you _feel it_
-
-**Builder Residencies**
-
-* **Month-long immersive experiences** from Berlin to Copenhagen to Chiang Mai
-* High-bandwidth environments where ideas grow faster and conviction compounds
-* Work, debug, and debate together - these offsites are the program's lifeblood
-
-**Who Builds Here**
-
-* Former FANG/Web2 builders, **DeFi 2020 veterans**, **HFT traders**, fresh graduates, and **2015 OGs**
-* All building apps **only possible on MegaETH** - next-gen DeFi, Autonomous Worlds, consumer apps with emotional value
-* **Mafia helps Mafia** - real collaboration and camaraderie with direct access to core team and alumni
+* **MegaMafia 1.0** - Proven foundation that supercharged existing primitives by leveraging MegaETH's increased bandwidth, reduced latency, and larger contract sizes
+  * **$40M+ raised** by participating teams, surpassing MegaETH's own funding
+  * Notable projects: Noise, GTE, CapMoney, Euphoria - ecosystem leaders backed by Franklin Templeton, Robot Ventures, Maven 11, Figment Capital
+  * OG Mafia pioneers shaped the early vision and demonstrated that focused application development drives real ecosystem value
+* **MegaMafia 2.0** - Launched [April 24th](https://x.com/0xMegaMafia/status/1915073541705179305) with broader scope and deeper creativity
+  * Challenge builders to imagine **product spaces outside conventional thinking**
+  * Focus on apps that **formalize existing loops instead of manufacturing new demand**
+  * Take fragmented day-to-day behaviors and distill them into coherent flows that unlock new connections
+* **Philosophy**
+  * Inspired by **A24's creative approach** - curated by taste and authenticity, not categories
+  * Applications over infrastructure - the space is oversaturated with infra while few focus on what truly matters
+  * You know it's Mafia-built because you _feel it_
+* **Builder Residencies**
+  * **Month-long immersive experiences** from Berlin to Copenhagen to Chiang Mai
+  * High-bandwidth environments where ideas grow faster and conviction compounds
+  * Work, debug, and debate together - these offsites are the program's lifeblood
+* **Who Builds Here**
+  * Former FANG/Web2 builders, **DeFi 2020 veterans**, **HFT traders**, fresh graduates, and **2015 OGs**
+  * All building apps **only possible on MegaETH** - next-gen DeFi, Autonomous Worlds, consumer apps with emotional value
+  * **Mafia helps Mafia** - real collaboration and camaraderie with direct access to core team and alumni
 
 **Backing** - **$75M+** from Paradigm, Dragonfly, Franklin Templeton, Maven11, Robot Ventures, and leading crypto visionaries
 
@@ -81,6 +72,4 @@ MegaETH's flagship accelerator bringing exceptional builders together to create 
 
 * **MegaMafia** ([Website](https://www.megaeth.com/builder) | [@0xMegaMafia](https://x.com/0xMegaMafia))
   * 2.0: Closed with 300+ team submissions ([Announcement](https://x.com/megaeth_labs/status/1930246537558536411))
-* **MegaForge**
-  * [Announcement](https://x.com/megaeth_labs/status/1882829039603470371)
-  * [Explanation](https://x.com/hotpot_dao/status/1960145840468844613)
+* **MegaForge** ([Announcement](https://x.com/megaeth_labs/status/1882829039603470371) | [Explanation](https://x.com/hotpot_dao/status/1960145840468844613))

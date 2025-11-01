@@ -37,6 +37,8 @@ For traders who want to prove they're the best, Legend is the arena.
 **Team**
 
 * **APE MONEY** ([@apemoneyjay](https://x.com/apemoneyjay)) - Chief Trench Officer
+* **ryoh** ([@ryohhno](https://x.com/ryohhno))
+* **spaghetti** ([@spaghetti\_codes](https://x.com/spaghetti_codes))
 * **abe (⚷,⚷)** ([@ich\_bin\_abe\_2](https://x.com/ich_bin_abe_2))
 
 **Funding**

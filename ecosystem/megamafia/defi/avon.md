@@ -125,6 +125,7 @@ Avon's hybrid system provides flexibility for both active and passive participan
 
 * **Technical Blog**: [Order Book-Based Lending](https://www.bedlamresear.ch/posts/ob-lending)
 * [The Future of Onchain Credit Markets](https://x.com/avon_xyz/status/1887169777204166731)
+* [Avon does not need market makers](https://x.com/im0xPrince/status/1981330633763766440)
 
 ***
 

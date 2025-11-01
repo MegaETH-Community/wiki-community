@@ -2,7 +2,7 @@
 
 Pump Party brings the excitement of live gameshow entertainment to Web3, creating a mobile-first experience that onboards mainstream users at scale. Think HQ Trivia meets blockchain - where every game outcome is verifiable, every prize distribution is transparent, and participants don't need to know they're using crypto.
 
-[Website](https://www.pumpparty.com/) | [Twitter](https://x.com/pumppartyapp)
+[Website](https://www.pumpparty.com/) | [Twitter](https://x.com/pumpparty) | [Telegram](https://t.me/+kh4RQgAcmZAzYWQx)
 
 ### What is Pump Party?
 

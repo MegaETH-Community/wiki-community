@@ -4,7 +4,7 @@
 
 [Website](https://euphoria.finance/) | [Twitter](https://x.com/Euphoria_fi) | [Telegram](https://t.me/euphoria_fi) | [Discord](https://discord.gg/euphoriafi)
 
-[Demo1](https://x.com/_mackinac/status/1930298499574223138) | [Demo2](https://x.com/Dogetoshi/status/1935498081547501844)
+[Demo1](https://x.com/_mackinac/status/1930298499574223138) | [Demo2](https://x.com/Dogetoshi/status/1935498081547501844) | [New UX](https://x.com/Euphoria_fi/status/1977062585183691132)
 
 ### Team & Vision
 

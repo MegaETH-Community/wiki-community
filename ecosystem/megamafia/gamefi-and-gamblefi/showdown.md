@@ -105,7 +105,7 @@ Drawing from their professional backgrounds, the founders are building:
 
 ### Roadmap & Progress
 
-**Current Status: Closed Alpha**
+**Current Status: Open Alpha**
 
 * 100+ cards with trillions of deck combinations
 * 4 pre-built decks for testing

@@ -86,10 +86,10 @@ Lemonade operates through a unique four-branch governance system and comprehensi
 
 ### LemonHeads Identity System
 
-**Self-Sovereign Identity Features:**
+**Self-Sovereign Identity Features** | [Website](https://x.com/Mega_Ecosystem/status/1971958851319877784)
 
 * **Inclusive avatars** - Diverse representation across ethnicities and body types
-* **Affordable minting** - 0.0021 ETH per mint, card payments accepted
+* **Affordable minting** - 0.01 ETH per mint, card payments accepted
 * **Utility over scarcity** - Access to platform features, not speculation
 * **Verifiable credentials** - Blockchain-secured identity elements
 
@@ -126,7 +126,7 @@ Lemonade operates through a unique four-branch governance system and comprehensi
 
 ### Development Roadmap
 
-**Current Status:**
+**Current Status** | [AMA](https://x.com/badlydrawnbarry/status/1974573890749006062)
 
 * Live on MegaETH with full event management
 * Active governance experimentation
