@@ -7,7 +7,7 @@ icon: chess-pawn-piece
 
 **Become Legend in the arena** - The world's first Trader vs. Trader (TvT) platform. Ranked mode for trading where skill, not size, determines who wins. Battle head-to-head in competitive arenas and prove your trading prowess publicly.
 
-[Website](https://legend.trade) | [Twitter](https://x.com/legenddottrade) | [Telegram](https://t.me/+mGMVS-seE0gwNzkx) | [Discord](https://discord.com/invite/BjMumzGG?event=1432396979186565272) | [Docs](https://docs.legend.trade/)
+[Website](https://legend.trade) | [Twitter](https://x.com/legendtrade) | [Telegram](https://t.me/+mGMVS-seE0gwNzkx) | [Discord](https://discord.com/invite/BjMumzGG?event=1432396979186565272) | [Docs](https://docs.legend.trade/)
 
 **The Concept**
 
