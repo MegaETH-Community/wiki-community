@@ -7,7 +7,7 @@ icon: chess-pawn-piece
 
 **Turn ideas into automated strategies that trade news and on-chain signals 24/7** - Transform trading logic in your head into bots that execute instantly. AI-powered strategy deployment on MegaETH captures timing edges you'd otherwise miss.
 
-Website | Twitter
+[Website](https://everwatch.cc/) (Join The Waitlist) | [Twitter](https://x.com/0xEverwatch)
 
 **The Problem**
 
@@ -39,6 +39,10 @@ Everwatch monitors **on-chain activity and news around the clock**, then execute
 **The Edge**
 
 Event-driven trading requires speed humans can't match. By automating the logic and deploying on MegaETH's real-time rails, Everwatch turns reaction time from seconds into milliseconds - the difference between catching alpha and watching it disappear.
+
+**The Team**
+
+* **FF** ([@luckyfeline88](https://x.com/luckyfeline88))
 
 Your strategies run while you sleep. Opportunities don't wait.
 
