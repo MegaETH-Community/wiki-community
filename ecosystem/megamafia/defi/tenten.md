@@ -7,7 +7,7 @@ icon: chess-pawn-piece
 
 **Meet me where markets open** - Daily social trading events that concentrate market action into focused moments. No 24/7 FOMO, no burnout - just coordinated play and shared opportunities at 10:10 every day.
 
-Website | Twitter
+[Website](https://www.tenten.markets/) (Join The Waitlist) | [Twitter](https://x.com/tentenmarkets)
 
 **The Problem**
 
