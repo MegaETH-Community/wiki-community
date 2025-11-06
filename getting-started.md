@@ -8,9 +8,10 @@ What do you want to explore today? Choose the right path based on your interests
 
 ***
 
-#### **1. Hunt and Be Part of the Ecosystem**
+#### **1. Explore the Ecosystem**
 
-🚨 Explore our [Hunting Guide](guide/user-guide/hunting.md) to start earning rewards and join the community.
+* [Ecosystem Projects](ecosystem/megamafia/) – Explore existing projects, tools, and resources to jumpstart your journey.
+* [Hunting Guide](guide/user-guide/hunting.md) – Start earning rewards and connect with the community.
 
 ***
 
@@ -36,4 +37,3 @@ Want the latest updates, community insights, and ecosystem news? Explore these r
 Are you a developer, builder, or just curious about what’s possible with MegaETH? This is your starting point:
 
 * [Builder Guide](guide/builder-guide/) – Learn how to contribute, develop tools, and deploy on MegaETH.
-* [Ecosystem Projects](broken-reference) – Explore existing projects, tools, and resources to jumpstart your journey.
