@@ -137,6 +137,25 @@ Robust API for processing massive chain data efficiently.
 
 ***
 
+#### Real-Time Oracles
+
+Traditional oracles update prices on minute intervals. MegaETH needs something radically faster.
+
+**RedStone Integration:**
+
+MegaETH partnered with RedStone to build the **fastest push oracle to date**, updating onchain every **2.4ms**.
+
+* **416 oracle updates per second** - in an industry where most chains run at double-digit TPS
+* Price data refreshed 250x faster than traditional oracle models
+* Enables new categories of DeFi applications requiring instant price feeds
+* Real-time capital markets, high-frequency trading strategies, and instant liquidations become viable
+
+This is infrastructure innovation matching chain performance - where oracles keep pace with 10ms blocks instead of becoming the bottleneck.
+
+[Announcement](https://x.com/megaeth/status/1909614320755130514)
+
+***
+
 ### Infrastructure Roadmap
 
 **Current (Testnet)**:
@@ -145,6 +164,7 @@ Robust API for processing massive chain data efficiently.
 * ✅ realtime\_sendRawTransaction
 * ✅ Paginated reads for logs
 * ✅ WebSocket subscriptions
+* ✅ Sub-millisecond oracles
 
 **Coming Soon**:
 
@@ -155,24 +175,8 @@ Robust API for processing massive chain data efficiently.
 
 **Future Vision**:
 
-* Sub-millisecond oracles
 * Streaming indexers
 * Real-time analytics
 * Instant cross-chain messaging
-
-### Builder Resources
-
-**Integration Guides**:
-
-* [Realtime API Docs](https://docs.megaeth.com/realtime-api)
-* SDK support coming for major libraries
-* Example implementations available
-
-**Best Practices**:
-
-* Use `realtime_sendRawTransaction` for user transactions
-* Subscribe to mini-blocks for live data
-* Implement pagination for historical queries
-* Cache aggressively—data is immutable once confirmed
 
 The infrastructure revolution is just beginning. As MegaETH pushes blockchain performance to new limits, expect innovative tools and services that reimagine what's possible in Web3.

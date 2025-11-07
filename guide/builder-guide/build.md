@@ -10,7 +10,7 @@ Before diving into the details, check out the [Fluffle Tools Build Page](https:/
 
 ***
 
-### **Network Information**
+#### **Network Information**
 
 Here’s what you need to connect to the **MegaETH Testnet**. Use these details to set up your wallet or dev environment:
 
@@ -19,9 +19,7 @@ Here’s what you need to connect to the **MegaETH Testnet**. Use these details 
 * **RPC URL:** `https://carrot.megaeth.com/rpc`
 * **WebSocket URL:** `wss://carrot.megaeth.com/ws`
 
-***
-
-### **Contract Addresses**
+#### **Contract Addresses**
 
 Looking for the **contract addresses**?  These are key for working with MegatETH’s core components.
 
@@ -29,13 +27,32 @@ Looking for the **contract addresses**?  These are key for working with MegatETH
 
 ***
 
-### **Official Documentation**
+#### **Official Documentation**
 
 The official docs are your go-to for understanding how MegatETH works and how to build on it.
 
 * **Main Documentation:** [MegatETH Docs](https://docs.megaeth.com/)\
   Explore this to get the full scoop on the ecosystem.
 * **Realtime API Section:** [MegatETH Realtime API](https://docs.megaeth.com/realtime-api)
+
+***
+
+#### Builder Resources
+
+**Integration Guides:**
+
+* [Realtime API Docs](https://docs.megaeth.com/realtime-api)
+* [Infrastructure Overview](../../infrastructure.md) - Learn about real-time oracles, pagination, and advanced RPC methods
+* SDK support coming for major libraries
+* Example implementations available
+
+**Best Practices:**
+
+* Use `realtime_sendRawTransaction` for user transactions
+* Subscribe to mini-blocks for live data
+* Implement pagination for historical queries
+* Leverage real-time oracles for price feeds
+* Cache aggressively—data is immutable once confirmed
 
 ***
 
