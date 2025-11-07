@@ -36,7 +36,7 @@ MegaETH redirects value from **financial yield rather than users** to fund netwo
 
 USDT0 (canonical USDT) and cUSD remain first-class citizens with deep liquidity, oracle coverage, and best-execution routing across the ecosystem.
 
-[Announcement](https://x.com/megaeth_labs/status/1965082874627199414)
+[Announcement](https://x.com/megaeth_labs/status/1965082874627199414) | [Pricing Scenarios](https://x.com/kunalgoel/status/1983304334835077425)
 
 ***
 
