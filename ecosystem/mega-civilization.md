@@ -50,6 +50,7 @@ The MegaETH community thrives thanks to passionate individuals bringing their ex
 The MegaETH community keeps creating resources to support growth and collaboration:
 
 * [**Fluffle Tools**](https://www.fluffle.tools/): Built by Ultra, this platform lists and explores MegaETH ecosystem projects. It lets the community vote on favorites, with sorting, filtering, and social links for each project. A must-visit for diving into MegaETH.
+* [MTRKR](https://x.com/mtrkr_xyz): Visualize your MegaETH wallet in real time (tokens, NFTs & DeFi positions).
 
 ***
 
