@@ -28,7 +28,7 @@ This page outlines programs and resources for developers building on MegaETH.\
 
 ***
 
-#### **2. MegaMafia 2.0: The Premier Accelerator Program**.
+#### **2. MegaMafia: The Premier Accelerator Program**.
 
 MegaETH's flagship accelerator bringing exceptional builders together to create **zero-to-one applications** only possible with 100k TPS and sub-millisecond block times. Teams co-work and co-live with the core team at intensive builder residencies worldwide.
 

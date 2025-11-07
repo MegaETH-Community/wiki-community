@@ -66,7 +66,8 @@
 ***
 
 * [Infrastructure](infrastructure.md)
-* [Protocol Mechanics](protocol-mechanics.md)
+* [Protocol Mechanics](protocol-mechanics/README.md)
+  * [Tokenomics](protocol-mechanics/tokenomics.md)
 
 ## Guide
 

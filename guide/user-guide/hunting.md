@@ -4,80 +4,78 @@ icon: user-bounty-hunter
 
 # Hunting
 
-### Fluffle Holders
+MegaETH has launched several initiatives to build an inclusive ecosystem and reward early supporters:
 
-Engaging with your Fluffle is important because it unlocks [valuable rewards](https://www.megaeth.com/thefluffle) and enhances your connection to the MegaETH ecosystem. These NFTs evolve through multiple stages based on your activity.
+[Tokenomics](../../protocol-mechanics/tokenomics.md)
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure></div>
+#### ✅ Echo Token Sale - December 2024
 
-* **Connect & Engage:**
-  * Visit the [MegaETH NFT Portal](https://nft.megaeth.com/) to access your Fluffle.
-* **Daily Routine:**
-  * Feed your Fluffle with a carrot every day to boost its progression.
-* **Weekly Challenges:**
-  * Participate in the weekly quiz to earn additional rewards and progress your NFT’s stage.
-* **Earn Badges:**
-  * Collect badges linked to your Twitter account to showcase your achievements.
-    * Learn more from [this tweet by Julien Coppola](https://x.com/juliencoppola/status/1905251593777262617).
-* **More Features on the Way:**
-  * Stay tuned for upcoming updates and exciting new ways to engage with your Fluffle.
+**$10M raised from the community** in a record-breaking public sale on Echo, demonstrating MegaETH's commitment to fair distribution and community ownership from day one.
 
-***
+* **Same terms as VCs** - 3,000+ retail investors participated at the same valuation as Dragonfly, Joseph Lubin, and Vitalik Buterin
+* This means that funds are **locked** up for 1 year - [Source](https://x.com/NamikMuduroglu/status/1981714803916689891)
 
-### Not Holders
+[Source](https://x.com/megaeth_labs/status/1867616380876730581)
 
-#### Hunt
+#### ✅ The Fluffle NFT Collection - February 2025
 
-Explore projects on the MegaETH testnet with step-by-step guides designed to help you interact with and understand the ecosystem’s dApps and initiatives. This page is based, in part, on the guides by [@0x\_ultra](https://x.com/0x_ultra/status/1903100994277474567) on the [Fluffle Tools](https://www.fluffle.tools/explore) website. For a complete list of MegaETH projects, visit our[ Projects Page](../../ecosystem/projects/).
+**10,000 soulbound NFTs** distributed exclusively to community members through a two-tranche whitelist system.
 
-* **Autonomous World Engine:**\
-  An autonomous world engine powering immersive 3D experiences.
-* **NectarAI:**\
-  A platform focused on creating virtual companions.
-* **Lemonade:**\
-  An on-chain toolkit for creating events and managing communities.
-* **GTE:**\
-  The world's fastest decentralized trading venue built on MegaETH.
-* **CapLabs:**\
-  A stablecoin engine that democratizes sophisticated yield strategies.
-* **Teko:**\
-  A money market offering leveraged strategies and margin trading.
-* **RainMakr:**\
-  The first all-in-one launchpad for AI agents, memes, and vetted IDOs on MegaETH.
-* **Sirio:**\
-  The unified Web3 Experience Hub.
-* **XL:**\
-  A multichain memecoin launchpad designed for fair launches—no snipers, creator-first.
-* **Guess Best:**\
-  A prediction market platform that makes betting fun and intuitive.
+**Tranche 1 (5,000 SBTs):**
 
-Find here a [video guide](https://x.com/OhJay_001/status/1903875628857757997) to show you how to go through this guide, created by [@OhJay\_001](https://x.com/OhJay_001).
+* **2.5% of total token supply** allocated to first batch holders. **50% locked** for 6 months.
+* Minted February 11-12, 2025 on Ethereum Mainnet for 1 ETH
+* Retroactive whitelist based on early community participation
+* **Zero team allocation**
 
-#### Discord Roles Explained
+**Tranche 2 (5,000 SBTs):**
 
-Check out this diagram by [@MarkoStevan19](https://x.com/MarkoStevan19/status/1881688979638300713) for a visual breakdown of each role:
+* Distributed after mainnet launch
+* No token allocation - SBT awarded through reward campaign completion
+* Proactive user whitelist
 
-* **MegaLevel:**
-  * Easiest role to obtain by showing consistent interest in the project.
-  * Indicates general awareness and involvement.
-* **MegaMafia:**
-  * Assigned to team members of projects that are part of the MegaMafia IRL Builders program.
-  * Reflects deeper commitment and active project building.
-* **Hats Cabal:**
-  * Limited to 100 people who own the initial MegaHAT.
-  * Represents an exclusive membership within the community.
-* **MegaGame Host:**
-  * Assigned to those who organize or host the weekly MegaGames.
-  * Recognizes event facilitators and community engagement leaders.
-* **Big Sequencer Energy:**
-  * Hand-picked by the team for individuals who contribute meaningful work to the network.
-  * Not awarded by grinding; focuses on quality over quantity of involvement.
-* **Regional Bunny Lead:**
-  * Assigned to people running local groups or hosting regional Discord/Twitter spaces.
-  * Hand-picked by the team for leadership in a specific region.
-* **Chubby Bunny:**
-  * Given to community members who provide value in smaller but impactful ways.
-  * A stepping stone role for those not yet assigned a more formal position.
-* **Original Mafia:**
-  * Reserved for those who were around from the beginning and helped shape the early community.
-  * Recognizes founding members and their contributions.
+**Engagement Opportunities:**
+
+* Daily feeding mechanics and progression system
+* Weekly quizzes for additional rewards
+* Evolving NFT stages based on community participation
+
+[NFT Portal](https://nft.megaeth.com/) | [Announcement](https://x.com/megaeth_labs/status/1886947683220234670)
+
+#### ✅ Public Sale on Sonar - November 2025
+
+**$50M raised at $1B FDV**, making community members the largest stakeholders in the MegaETH network.
+
+[Sale Statistics](https://www.megadocs.xyz/) | [General statistics](https://megaeth-stats.swishi.xyz/)
+
+<figure><img src="../../.gitbook/assets/Public_Sale_chart.PNG" alt=""><figcaption><p>By <a href="https://x.com/Aizcalibur/status/1985717290613211619">@Aizcalibur</a></p></figcaption></figure>
+
+[Announcement Thread](https://x.com/megaeth/status/1980985518340125099) | [Website](https://token.megaeth.com/) | [Conviction Round Methodology](https://x.com/megaeth/status/1986060027141271573) | [Sale Completion](https://x.com/megaeth/status/1986429671890891017) | [Sale Website](https://sale.megaeth.com/)
+
+#### ⬜ Mainnet Campaign - Post-Mainnet
+
+Once mainnet launches, **eligible users receive additional tokens** by actively engaging with MegaETH ecosystem applications.
+
+* **2.5% of total supply** allocated to rewards campaign
+* Eligible participants: Fluffle holders and anyone who attempted allocation in Echo or Public Sale
+* Rewards distributed based on active usage of [ecosystem dApps](../../ecosystem/megamafia/)
+
+[Source](https://token.megaeth.com/)
+
+#### ⬜ Ecosystem Airdrops
+
+Projects building on MegaETH, including **MegaMafia and MegaForge initiatives**, will conduct their own token airdrops to reward early users and community participants.
+
+* Multiple projects preparing airdrop campaigns
+* Rewards for testnet and mainnet participation
+* Explore [MegaMafia](../../ecosystem/megamafia/) and all ecosystem projects on our [Projects Page](../../ecosystem/projects/)
+
+#### ⬜ Staking Program
+
+**Over half of total token supply** is reserved for KPI-based distribution through the staking program.
+
+* Gated to $MEGA stakers
+* Time staked impacts rewards (10-day minimum, 30-day maximum)
+* Rewards aligned with network growth and long-term holders
+
+Learn more on our [Tokenomics Page](../../protocol-mechanics/tokenomics.md#kpi-staking-rewards) | [Announcement](https://x.com/megaeth_labs/status/1981712581330121053)

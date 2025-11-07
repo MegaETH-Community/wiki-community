@@ -33,7 +33,7 @@ icon: rabbit-running
 
 ### Backed By
 
-**MegaETH** is supported by industry leaders and notable figures, including **Dragonfly Capital**, **Vitalik Buterin**, **Joseph Lubin**, and thousands of **crypto-native** individuals. With [$30 million raised](https://cryptorank.io/ico/megaeth), MegaETH allocated $10 million to the community at the **same valuation** as institutional investors, showcasing their commitment to fairness and inclusivity. Prioritizing **sustainable growth** over excessive fundraising.
+**MegaETH** raised a total of [$108M](https://cryptorank.io/ico/megaeth), with **$88M from the community** through fair public sales, making retail participants the largest stakeholders in the network. Including $10M raised at the same valuation as VCs. An additional **$20M** came from VCs including **Dragonfly Capital**, **Vitalik Buterin**, and **Joseph Lubin**. This approach showcases MegaETH's commitment to equitable distribution and **sustainable growth**, prioritizing community ownership over excessive institutional fundraising.
 
 ***
 

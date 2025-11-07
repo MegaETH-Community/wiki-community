@@ -32,17 +32,25 @@ Together, this team reflects a rare convergence of **technical mastery** and **p
 * **Namik Muduroglu -** [LinkedIn](https://www.linkedin.com/in/namikmuduroglu/) | [X](https://x.com/NamikMuduroglu)\
   **Role**: Founding Team & CSO\
   **Expertise**: Strategic innovation and market development
+* **Mutopia** - [X](https://x.com/0xMutopia)\
+  **Role:** Product Lead
 * **Amir** – [X](https://x.com/amiralmaimani)\
   **Role**: Head of Ecosystem
 * **BREAD** – [X](https://x.com/0xBreadguy)\
   **Role**: Head of Community
-* **heisenbruh** – [X](https://x.com/0xHeisenbruh)\
+* **Heisenbruh** – [X](https://x.com/0xHeisenbruh)\
   **Role**: Business Development
+* **Moonshot** - [X](https://x.com/Moonshot211) | **Alex** - [X](https://x.com/0xAlexjultz)\
+  **Role**: Community Team
 * **Rose Bao** – [X](https://x.com/HarukoRose)\
   **Role**: Visual Artist & Creative Director
-* **Laura** – [X](https://x.com/0xlifeitself)\
-  **Role**: Chief Operating Officer
 * **Sami** – [X](https://x.com/0xSami_M)\
   **Role**: Developer Relations (DevRel)
+* **Aaron Guan** - [X](https://x.com/aaronhanlunguan)\
+  **Role**: GTM
+* **Laura** – [X](https://x.com/0xlifeitself)\
+  **Role**: Chief Operating Officer
 * **Jin** – [X](https://x.com/_Digital_J_) & **William** – [X](https://x.com/troublor)\
   **Role**: Research
+
+[Source](https://x.com/0xBreadguy/status/1982420126654964048)
