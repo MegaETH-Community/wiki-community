@@ -41,4 +41,4 @@ Here’s where you can find all the essential resources to dive deeper into the 
 If you would like to contribute to this community Wiki or discuss ideas, feel free to drop us a message on [Telegram](https://t.me/xSolynor)! You can also reach out on [X](https://x.com/0xSolynor) or check out our [GitHub](https://github.com/MegaETH-Community/wiki-community) to collaborate directly.
 {% endhint %}
 
-\
+<br>
