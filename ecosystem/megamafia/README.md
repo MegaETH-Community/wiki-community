@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 🐰 MegaMafia
 
 MegaMafia is MegaETH's flagship accelerator program for exceptional builders creating zero-to-one applications. [Learn more about the program →](../../guide/builder-guide/programs.md#id-2.-megamafia-2.0-the-premier-accelerator-program)

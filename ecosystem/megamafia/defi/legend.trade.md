@@ -1,5 +1,6 @@
 ---
 description: MegaMafia 2.0
+hidden: true
 icon: chess-pawn-piece
 ---
 

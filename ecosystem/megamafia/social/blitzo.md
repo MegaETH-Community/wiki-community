@@ -1,20 +1,6 @@
 ---
 description: MegaMafia 2.0
 icon: chess-pawn-piece
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Blitzo
