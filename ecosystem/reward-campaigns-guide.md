@@ -22,32 +22,32 @@ layout:
 
 ### Live Apps — No Access Code Required
 
-**WCM (World Capital Markets)** | MegaMafia 1.0
+**WCM (World Capital Markets)** | MegaMafia 1.0&#x20;
 
 * **What:** Unified spot, perps, and lending exchange with cross-margining. Execute leveraged basis arbitrage starting from $10.
 * **Team:** [Pogo Bounce](https://x.com/PogoB/status/1882097629854572544), [Kevin Kap](https://x.com/0xKevinKap), Lucas
 * **How to farm:** Lending is the highest-value action according to their forum. Deposit and lend assets to accumulate points.
-* [Website](https://www.wcm.inc/) · [X](https://x.com/wcm_inc)
+* [Website](https://www.wcm.inc/) · [X](https://x.com/wcm_inc) · [More info →](megamafia/defi/world-capital-markets.md)
 
 **Avon** | MegaMafia 1.0
 
 * **What:** First CLOB (Central Limit Order Book) for onchain lending. Market-driven rates through open competition between lenders and borrowers.
 * **Team:** [Prince](https://x.com/im0xPrince) (first software engineer at Solflare)
 * **How to farm:** Lend USDm to the vault. Early depositors may receive boosted points.
-* [Website](https://www.avon.xyz/) · [X](https://x.com/avon_xyz)
+* [Website](https://www.avon.xyz/) · [X](https://x.com/avon_xyz) · [More info →](megamafia/defi/avon.md)
 
 **Showdown** | MegaMafia 1.0
 
 * **What:** Onchain TCG (Trading Card Game) that merges poker betting mechanics with strategic card gameplay. Built by pro Magic: The Gathering players.
 * **Team:** [Stan Cifka](https://x.com/StanCifka), [Ondrej Strasky](https://x.com/OndrejStrasky) (both pro MTG players)
 * **How to farm:** Play games and enter tournaments to accumulate points. NFT card purchases expected soon.
-* [Website](https://www.showdown.game/) · [X](https://x.com/Showdown_TCG)
+* [Website](https://www.showdown.game/) · [X](https://x.com/Showdown_TCG) · [More info →](megamafia/gamefi-and-gamblefi/showdown.md)
 
 **Kumbaya** | MegaMafia 2.0
 
 * **What:** Main DEX and launchpad for the MegaETH ecosystem. Primary trading hub for USDm, MEGA, and ecosystem tokens. Built on Uniswap V3/V4 contracts.
 * **How to farm:** Provide liquidity to pools, swap tokens. As the core DEX, activity here likely matters for future rewards.
-* [Website](https://www.kumbaya.xyz/) · [X](https://x.com/kumbaya_xyz)
+* [Website](https://www.kumbaya.xyz/) · [X](https://x.com/kumbaya_xyz) · [More info →](megamafia/defi/kumbaya.md)
 
 **Prism (PrismFi)** | Not MegaMafia
 
@@ -59,7 +59,7 @@ layout:
 
 * **What:** Unlocks passive TEE (Trusted Execution Environment) inside phones and nodes, providing internet service for subscribers and verifiable compute for the network.
 * **How to farm:** _Details TBD — check their channels for updates._
-* [Website](https://ubi.tel/) · [X](https://x.com/getubitel)
+* [Website](https://ubi.tel/) · [X](https://x.com/getubitel) · [More info →](megamafia/infrastructure/ubitel.md)
 
 **CAP** | MegaMafia 1.0
 
@@ -67,7 +67,7 @@ layout:
 * **Team:** [Benjamin](https://x.com/Benjamin918_) (founder), [DeFiDave](https://x.com/DeFiDave22) (Head of Growth).
 * **How to farm:** [HomesteadProgram](https://www.cap.app/blog/introducing-cap-homestead-program) — earn "Caps" (points). Mint cUSD and buy LP-cUSD or YT-cUSD.
 * **Mainnet:** Expected August 2026. Pendle listing planned shortly after.
-* [Website](https://cap.app/) · [X](https://x.com/capmoney_) · [Docs](https://docs.cap.app/)
+* [Website](https://cap.app/) · [X](https://x.com/capmoney_) · [Docs](https://docs.cap.app/) · [More info →](megamafia/defi/cap.md)
 
 **GMX** | Not MegaMafia
 
@@ -102,7 +102,7 @@ layout:
 * **What:** "Rent upside" protocol — pay per second (subscription model) to capture price appreciation of ETH, BTC, or MEGA without liquidation risk. No margin requirements.
 * **Status:** Testnet live with waitlist-gated access. Complete social tasks + wallet checkpoint to earn testnet points.
 * **How to farm:** Join waitlist → claim WETHx test assets → open "Hire" positions to accumulate testnet points.
-* [Website](https://lora.finance/) · [Testnet](https://testnet.lora.finance/) · [X](https://x.com/LoraFinance)
+* [Website](https://lora.finance/) · [Testnet](https://testnet.lora.finance/) · [X](https://x.com/LoraFinance)&#x20;
 
 ***
 
@@ -114,34 +114,34 @@ _Monitor these projects for whitelist openings._
 
 * **What:** Unified USDm Liquidity Engine for MegaETH. Isolated lending pools and curated yields structured by veterans from BlackRock and Goldman Sachs. TradFi-grade risk management for DeFi.
 * **Team:** [cflan\_](https://x.com/cflan_), [jfo\_\_\_\_](https://x.com/jfo____) (ex-BlackRock, ex-Goldman)
-* [Website](https://www.benchmark.finance/) · [X](https://x.com/BenchmarkFi)
+* [Website](https://www.benchmark.finance/) · [X](https://x.com/BenchmarkFi) · [More info →](megamafia/defi/benchmark.md)
 
 **Rocket** | MegaMafia 2.0
 
 * **What:** Redistribution markets — call any price on any feed (crypto, stocks, memes, NFTs, Polymarket odds) with uncapped returns. Continuous real-time markets that build on top of prediction markets as data sources.
 * **Team:** [@0xflux\_](https://x.com/0xflux_), [@puzzledape](https://x.com/puzzledape), [@nics\_off](https://x.com/nics_off) (Head of Marketing)
-* [Website](https://userocket.app/) · [X](https://x.com/userocket_app)
+* [Website](https://userocket.app/) · [X](https://x.com/userocket_app) · [More info →](megamafia/defi/rocket.md)
 
 **Hunch** | MegaMafia 2.0
 
 * **What:** Mobile-first social prediction markets. Trade micro-trends with fast resolution on MegaETH. Pokémon pack opening-style mechanics with large payoffs. Hyper-personal notifications and addictive UX targeting Gen Z.
-* [Website](https://www.hunch.lol/) · [X](https://x.com/hunchlol)
+* [Website](https://www.hunch.lol/) · [X](https://x.com/hunchlol) · [More info →](megamafia/defi/hunch.md)
 
 **TenTen** | MegaMafia 2.0
 
 * **What:** Daily social trading events at 10:10. Concentrates market action into focused time windows — no 24/7 FOMO. Coordinated play with shared moments instead of endless vigilance.
-* [Website](https://www.tenten.markets/) · [X](https://x.com/tentenmarkets)
+* [Website](https://www.tenten.markets/) · [X](https://x.com/tentenmarkets) · [More info →](megamafia/defi/tenten.md)
 
 **Everwatch** | MegaMafia 2.0
 
 * **What:** AI-powered automated trading bots. Describe your strategy in natural language, AI drafts the bot, deploys on MegaETH for real-time event-driven execution. Monitors onchain activity and news 24/7.
 * **Team:** [FF](https://x.com/luckyfeline88)
-* [Website](https://everwatch.cc/) · [X](https://x.com/0xEverwatch)
+* [Website](https://everwatch.cc/) · [X](https://x.com/0xEverwatch) · [More info →](megamafia/defi/everwatch.md)
 
 **Hello Trade** | MegaMafia 2.0
 
 * **What:** Every market, everywhere. Access stocks, commodities, ETFs, and crypto globally with up to 10x leverage, 24/7. Onchain multi-asset trading platform.
-* [Website](https://www.hello.trade/) · [X](https://x.com/hellotradeapp)
+* [Website](https://www.hello.trade/) · [X](https://x.com/hellotradeapp)&#x20;
 
 ***
 
@@ -152,16 +152,16 @@ _Monitor these projects for whitelist openings._
 * **What:** Mobile-first tap trading for derivatives. One tap to predict price movements — gamified with leaderboards, streaks, and social features. 300K+ waitlist signups. $7.5M raised.
 * **Team:** [Nathan Worsley](https://x.com/NathanWorsley_) (CEO), [Casey Craig](https://x.com/gmcaseycraig), [Johnny](https://x.com/johnnygannon) (CTO)
 * **Expected launch:** Mid-April 2026
-* [Website](https://euphoria.finance/) · [X](https://x.com/Euphoria_fi)
+* [Website](https://euphoria.finance/) · [X](https://x.com/Euphoria_fi) · [More info →](megamafia/defi/euphoria.md)
 
 **Brix** | MegaMafia 2.0
 
 * **What:** Tokenized yield-bearing stablecoins from emerging market currencies. First product: Turkish Lira stablecoin (\~40% yield in TRY, \~15-20% vs USD). DeFi integration with looping strategies, Pendle derivatives.
 * **Expected launch:** Late April 2026
-* [Website](https://www.brix.money/) · [X](https://x.com/brix_money)
+* [Website](https://www.brix.money/) · [X](https://x.com/brix_money) · [More info →](megamafia/defi/brix.md)
 
 **Dorado** | MegaMafia 2.0
 
 * **What:** First fully trustless onchain casino. LPs become the house and share profits. All game logic, randomness, and settlement live onchain.
 * **Expected launch:** May-June 2026
-* [Website](https://www.dorado.casino/) · [X](https://x.com/casinodorado)
+* [Website](https://www.dorado.casino/) · [X](https://x.com/casinodorado) · [More info →](megamafia/gamefi-and-gamblefi/dorado.md)
