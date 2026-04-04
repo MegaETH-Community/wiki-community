@@ -17,6 +17,7 @@
 
 ## Ecosystem
 
+* [Reward Campaigns Guide](ecosystem/reward-campaigns-guide.md)
 * [🐰 MegaMafia](ecosystem/megamafia/README.md)
   * [DeFi](ecosystem/megamafia/defi/README.md)
     * [GTE](ecosystem/megamafia/defi/gte.md)
